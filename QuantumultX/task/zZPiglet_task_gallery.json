@@ -1,0 +1,10 @@
+{
+    "name": "zZPiglet task gallery",
+    "description": "https://github.com/zZPiglet/Task/tree/master",
+    "task": [
+        "0 1,20 * * * https://raw.githubusercontent.com/zZPiglet/Task/master/DiDi/DiDi_new.js, tag=滴滴出行, img-url=https://raw.githubusercontent.com/Orz-3/task/master/didi.png",
+        "1 0 * * * https://raw.githubusercontent.com/zZPiglet/Task/master/elem/elemCheckIn.js, tag=饿了么-打卡领红包, img-url=https://raw.githubusercontent.com/Orz-3/task/master/elem.png",
+        "50 23 * * * https://raw.githubusercontent.com/zZPiglet/Task/master/elem/elemPea.js, tag=饿了么-遗忘的吃货豆, img-url=https://raw.githubusercontent.com/Orz-3/task/master/elem.png",
+        "25 7 * * * https://raw.githubusercontent.com/zZPiglet/Task/master/Alipay/Alipay.js, tag=支付宝-积分能量, img-url=https://raw.githubusercontent.com/Orz-3/task/master/alipay.png",
+     ]
+}

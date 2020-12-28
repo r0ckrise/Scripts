@@ -1,0 +1,12 @@
+{
+    "name": "blackmatrix7 task gallery",
+    "description": "https://github.com/blackmatrix7/ios_rule_script/tree/master/script",
+    "task": [
+        "10 8 * * * https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/didichuxing/didi_checkin.js, tag=滴滴出行, img-url=https://raw.githubusercontent.com/Orz-3/task/master/didi.png",
+        "10 8 * * * https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/smzdm/smzdm_checkin.js, tag=什么值得买, img-url=https://raw.githubusercontent.com/Orz-3/task/master/smzdm.png",
+        "30 0 * * *  https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/tieba/tieba_checkin.js, tag=百度贴吧, img-url=https://raw.githubusercontent.com/Orz-3/task/master/tieba.png",
+        "15 8 * * * https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/10010/unicom_checkin.js, tag=中国联通, img-url=https://raw.githubusercontent.com/Orz-3/task/master/10010.png",
+        "10 23 * * * https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/eleme/eleme_daily.js, tag=饿了么-领取吃货豆, img-url=https://raw.githubusercontent.com/Orz-3/task/master/elem.png",
+        "0 10 * * * https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/eleme/eleme_mission.js, tag=饿了么-领取会员任务, img-url=https://raw.githubusercontent.com/Orz-3/task/master/elem.png",
+     ]
+}

@@ -1,0 +1,9 @@
+{
+    "name": "ziye12 task gallery",
+    "description": "https://github.com/ziye12/JavaScript",
+    "task": [
+        "*/60 * * * * https://raw.githubusercontent.com/ziye12/JavaScript/master/Task/QQread.js, tag=QQ阅读, img-url=https://raw.githubusercontent.com/58xinian/icon/master/QQReadSign.png",
+        "*/11 * * * * https://raw.githubusercontent.com/ziye12/JavaScript/master/Task/qqreads.js, tag=企鹅读书, img-url=https://raw.githubusercontent.com/58xinian/icon/master/qqread.png",
+        "0 6-23,0,1-2/1 * * * https://raw.githubusercontent.com/ziye12/QCZJSPEED/main/Task/qczjspeed.js, tag=汽车之家极速版, img-url=https://raw.githubusercontent.com/Orz-3/task/master/qczj.png",
+     ]
+}

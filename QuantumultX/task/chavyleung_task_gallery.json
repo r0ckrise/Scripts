@@ -1,0 +1,17 @@
+{
+    "name": "chavyleung task gallery",
+    "description": "https://github.com/chavyleung/scripts",
+    "task": [
+        "30 3,7 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/box/switcher/box.switcher.js, tag=切换会话, img-url=https://raw.githubusercontent.com/Orz-3/task/master/box.png",        
+        "0 8 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/bilibili/bilibili.js, tag=哔哩哔哩, img-url=https://raw.githubusercontent.com/Orz-3/task/master/bilibili.png",
+        "0 8 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/bilibili/bilibili.silver2coin.js, tag=哔哩哔哩瓜子转硬币, img-url=https://raw.githubusercontent.com/Orz-3/task/master/bilibili.png",
+        "20 9 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/feng/feng.js, tag=威锋网, img-url=https://raw.githubusercontent.com/Orz-3/task/master/feng.png",
+        "20 9 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/hellobike/hellobike.js, tag=哈啰出行, img-url=https://raw.githubusercontent.com/Orz-3/task/master/hellbike.png",
+        "20 9 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/neteasemusic/quanx/neteasemusic.js, tag=网易云音乐, img-url=https://raw.githubusercontent.com/Orz-3/task/master/neteasemusic.png",
+        "20 9 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/rrtv/rrtv.js, tag=人人视频, img-url=https://raw.githubusercontent.com/Orz-3/task/master/rrtv.png",
+        "30 8 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/suning/suning.js, tag=苏宁易购, img-url=https://raw.githubusercontent.com/Orz-3/task/master/suning.png",
+        "30 8 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/wps/wps.js, tag=WPS, img-url=https://raw.githubusercontent.com/Orz-3/task/master/wps.png",
+        "30 8 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/wykl/wykl.js, tag=网易考拉, img-url=https://raw.githubusercontent.com/Orz-3/task/master/wykl.png",
+        "30 8 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/meituan/meituan.js, tag=美团, img-url=https://raw.githubusercontent.com/Orz-3/task/master/meituan.png",
+    ]
+}

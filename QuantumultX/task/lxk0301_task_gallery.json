@@ -17,6 +17,7 @@
         "57,58,59 59 23 * * * https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_blueCoin.js, tag=东东超市兑换奖品, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jxc.png",
         "55 23 * * * https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_unsubscribe.js, tag=取关京东店铺商品, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png",
         "55 23 * * * https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_unbind.js, tag=注销京东会员卡, img-url= https://raw.githubusercontent.com/58xinian/icon/master/jd_unbind.png, enabled=true",
+        "20 13 * * 6 https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_get_share_code.js, tag=获取互助码, img-url=https://raw.githubusercontent.com/yogayyy/task/master/huzhucode.png",
         "10 0 * * * https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_shop.js, tag=进店领豆, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_shop.png",
         "1 1 * * * https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_redPacket.js, tag=京东全民开红包, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_redPacket.png",
         "1 0-23/1 * * * https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_daily_egg.js, tag=京东金融提鹅, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdte.png",
@@ -38,6 +39,7 @@
         "0 0 * * * https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_bookshop.js, tag=口袋书店, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png",
         "2 0 * * * https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_cash.js, tag=签到领现金, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png",
         "1 7 * * * https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_nh.js, tag=京东年货节, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png",
+        "1 * * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_family.js, tag=京东家庭号, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_family.png",
         "0 8,9,10 * * * https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_nian.js, tag=京东炸年兽🧨, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/main/Icon/lxk0301/jd_nianCollect.png",
         "15 17 * * * https://raw.githubusercontent.com/LXK9301/jd_scripts/master/backUp/xmSports.js, tag=小米运动, img-url=https://raw.githubusercontent.com/58xinian/icon/master/xmyd.png",
     ]

@@ -5,8 +5,8 @@
         "*/11 * * * * https://raw.githubusercontent.com/r0ckrise/JavaScript/master/Task/qqreads.js, tag=企鹅读书, img-url=https://raw.githubusercontent.com/58xinian/icon/master/qqread.png",
         "0 6-23,0,1-2/1 * * * https://raw.githubusercontent.com/ziye12/QCZJSPEED/main/Task/qczjspeed.js, tag=汽车之家极速版, img-url=https://raw.githubusercontent.com/Orz-3/task/master/qczj.png",
         "8 8-17/1 * * * https://raw.githubusercontent.com/ziye12/JavaScript/main/Task/xiaole.js, tag=小乐优券, img-url=https://raw.githubusercontent.com/r0ckrise/Scripts/master/QuantumultX/icon/xlyq.png",
-        "*/2 * * * * https://raw.githubusercontent.com/ziye12/JavaScript/main/Task/iboxpay.js, tag=笑谱, img-url=https://raw.githubusercontent.com/r0ckrise/Scripts/master/QuantumultX/icon/iboxpay.png",
-        "*/15 8,9 * * * https://raw.githubusercontent.com/ziye12/JavaScript/main/Task/iboxpayZB.js, tag=笑谱直播, img-url=https://raw.githubusercontent.com/r0ckrise/Scripts/master/QuantumultX/icon/iboxpay.png",
+        "*/2 * * * * https://raw.githubusercontent.com/ziye12/JavaScript/main/Task/iboxpay.js, tag=笑谱, img-url=https://raw.githubusercontent.com/r0ckrise/Scripts/master/QuantumultX/icons/iboxpay.png",
+        "*/15 8,9 * * * https://raw.githubusercontent.com/ziye12/JavaScript/main/Task/iboxpayZB.js, tag=笑谱直播, img-url=https://raw.githubusercontent.com/r0ckrise/Scripts/master/QuantumultX/icons/iboxpay.png",
         "0 8,23 * * * * https://raw.githubusercontent.com/ziye12/JavaScript/main/Task/flw.js, tag=返利网, img-url=https://raw.githubusercontent.com/ziye12/JavaScript/main/Task/flw.png",
      ]
 }

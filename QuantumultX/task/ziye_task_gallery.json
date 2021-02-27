@@ -12,6 +12,6 @@
         "0 */1 * * * https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/zhima.js, tag=芝嫲视频, img-url=https://raw.githubusercontent.com/r0ckrise/Scripts/master/QuantumultX/icons/zmsp.png",
         "0 */1 * * * https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/githubAC.js, tag=GitHub, img-url=https://raw.githubusercontent.com/r0ckrise/Scripts/master/QuantumultX/icons/github.png",
         "0,30 0-23 * * * https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/bububao.js, tag=步步宝, img-url=https://raw.githubusercontent.com/r0ckrise/Scripts/master/QuantumultX/icons/bbb.png",
-        "5 9 * * * https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/ymzhuan.js, tag=羊毛赚, img-url=https://raw.githubusercontent.com/r0ckrise/Scripts/master/QuantumultX/icons/ymz.png",
+        "5 8,9 * * * https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/ymzhuan.js, tag=羊毛赚, img-url=https://raw.githubusercontent.com/r0ckrise/Scripts/master/QuantumultX/icons/ymz.png",
      ]
 }

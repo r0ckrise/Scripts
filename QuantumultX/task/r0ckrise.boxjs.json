@@ -1,0 +1,62 @@
+{
+  "id": "r0ckrise.app.sub",
+  "name": "自用 签到应用订阅",
+  "author": "@blackmatrix7",
+  "icon": "https://avatars.githubusercontent.com/u/27717518?s=460&u=d6899ff9f71f825ef4e85ece8b6d176afb6d24f8&v=4",
+  "repo": "https://github.com/blackmatrix7",
+  "apps": [{
+    "id": "smzdm",
+    "name": "什么值得买",
+    "keys": ["smzdm_cookie", "smzdm_session"],
+    "author": "@blackmatrix7",
+    "repo": "https://github.com/blackmatrix7/ios_rule_script/master/script/smzdm/smzdm_mission.js",
+    "icons": ["https://raw.githubusercontent.com/Orz-3/mini/master/Color/smzdm.png", "https://raw.githubusercontent.com/Orz-3/mini/master/Color/smzdm.png"],
+    "script": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/smzdm/smzdm_mission.js"
+    },
+    {
+    "id": "tieba",
+    "name": "百度贴吧",
+    "keys": ["tieba_cookie_key"],
+    "author": "@blackmatrix7",
+    "repo": "https://github.com/blackmatrix7/ios_rule_script/blob/master/script/tieba/tieba_checkin.js",
+    "icons": ["https://raw.githubusercontent.com/Orz-3/mini/master/Color/tieba.png", "https://raw.githubusercontent.com/Orz-3/mini/master/Color/tieba.png"],
+    "script": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/tieba/tieba_checkin.js"
+    },
+    {
+    "id": "unicom",
+    "name": "中国联通",
+    "keys": ["unicom_user_cookie", "unicom_mobile", "unicom_encrypt_mobile", "city_code"],
+    "author": "@blackmatrix7",
+    "repo": "https://github.com/blackmatrix7/ios_rule_script/blob/master/script/10010/unicom_checkin.js",
+    "icons": ["https://raw.githubusercontent.com/Orz-3/mini/master/Color/10010.png", "https://raw.githubusercontent.com/Orz-3/mini/master/Color/10010.png"],
+    "script": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/10010/unicom_checkin.js"
+    },
+    {
+    "id": "didi",
+    "name": "滴滴出行",
+    "keys": ["didi_token", "didi_city_id", "didi_lottery_id", "didi_my_source_id", "didi_group_id", "didi_finance_channel_id", "didi_finance_activity_id"],
+    "author": "@blackmatrix7",
+    "repo": "https://github.com/blackmatrix7/ios_rule_script/blob/master/script/didichuxing/didi_checkin.js",
+    "icons": ["https://raw.githubusercontent.com/Orz-3/mini/master/Color/didi.png", "https://raw.githubusercontent.com/Orz-3/mini/master/Color/didi.png"],
+    "script": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/didichuxing/didi_checkin.js"
+    },
+    {
+    "id": "eleme",
+    "name": "饿了么",
+    "keys": ["eleme_app_cookie", "eleme_app_longitude", "eleme_app_latitude"],
+    "author": "@blackmatrix7",
+    "repo": "https://github.com/blackmatrix7/ios_rule_script/blob/master/script/eleme/eleme_daily.js",
+    "icons": ["https://raw.githubusercontent.com/Orz-3/mini/master/Color/elem.png", "https://raw.githubusercontent.com/Orz-3/mini/master/Color/elem.png"],
+    "script": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/eleme/eleme_daily.js"
+    },
+    {
+    "id": "ttwkxcx",
+    "name": "支付宝天天挖矿小程序",
+    "keys": ["ttwksignurl", "ttwksignbody"],
+    "author": "@yangtingxiao",
+    "repo": "https://github.com/yangtingxiao/QuantumultX/master/scripts/ttwk/ttwk.js",
+    "icons": ["https://raw.githubusercontent.com/Orz-3/mini/master/Color/ttwkxcx.png", "https://raw.githubusercontent.com/Orz-3/mini/master/Color/ttwkxcx.png"],
+    "script": "https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/ttwk/ttwk.js"
+    }       
+ ]
+}

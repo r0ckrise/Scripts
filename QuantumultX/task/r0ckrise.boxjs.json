@@ -1,11 +1,11 @@
 {
   "id": "r0ckrise.app.sub",
-  "name": "自用 签到应用订阅",
+  "name": "r0ckrise自用 应用订阅",
   "author": "@blackmatrix7",
-  "icon": "https://avatars.githubusercontent.com/u/27717518?s=460&u=d6899ff9f71f825ef4e85ece8b6d176afb6d24f8&v=4",
+  "icon": "https://avatars.githubusercontent.com/u/76696224?s=400&u=54e58a6f878cd643d07c6bb0f4113983eecbadd6&v=4",
   "repo": "https://github.com/blackmatrix7",
   "apps": [{
-    "id": "smzdm",
+    "id": "zdm",
     "name": "什么值得买",
     "keys": ["smzdm_cookie", "smzdm_session"],
     "author": "@blackmatrix7",

@@ -52,7 +52,7 @@
     {
     "id": "ttwkxcx",
     "name": "支付宝天天挖矿小程序",
-    "keys": ["ttwksignurl", "ttwksignbody"],
+    "keys": ["ttwksignurl", "ttwksignheader", "ttwksignbody"],
     "author": "@yangtingxiao",
     "repo": "https://github.com/yangtingxiao/QuantumultX/master/scripts/ttwk/ttwk.js",
     "icons": ["https://raw.githubusercontent.com/Orz-3/mini/master/Color/ttwkxcx.png", "https://raw.githubusercontent.com/Orz-3/mini/master/Color/ttwkxcx.png"],

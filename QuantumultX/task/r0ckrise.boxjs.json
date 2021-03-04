@@ -1,9 +1,9 @@
 {
   "id": "r0ckrise.app.sub",
   "name": "r0ckrise自用 应用订阅",
-  "author": "@blackmatrix7",
+  "author": "@r0ckrise",
   "icon": "https://avatars.githubusercontent.com/u/76696224?s=400&u=54e58a6f878cd643d07c6bb0f4113983eecbadd6&v=4",
-  "repo": "https://github.com/blackmatrix7",
+  "repo": "https://github.com/r0ckrise",
   "apps": [{
     "id": "zdm",
     "name": "什么值得买",

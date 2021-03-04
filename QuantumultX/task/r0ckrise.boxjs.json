@@ -32,7 +32,7 @@
     "script": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/10010/unicom_checkin.js"
     },
     {
-    "id": "didi",
+    "id": "ddcx",
     "name": "滴滴出行",
     "keys": ["didi_token", "didi_city_id", "didi_lottery_id", "didi_my_source_id", "didi_group_id", "didi_finance_channel_id", "didi_finance_activity_id"],
     "author": "@blackmatrix7",

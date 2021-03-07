@@ -5,7 +5,7 @@
   "icon": "https://avatars.githubusercontent.com/u/76696224?s=400&u=54e58a6f878cd643d07c6bb0f4113983eecbadd6&v=4",
   "repo": "https://github.com/r0ckrise",
   "apps": [{
-    "id": "zdm",
+    "id": "bm7_smzdm",
     "name": "什么值得买",
     "keys": ["smzdm_cookie", "smzdm_session"],
     "author": "@blackmatrix7",
@@ -32,7 +32,7 @@
     "script": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/10010/unicom_checkin.js"
     },
     {
-    "id": "ddcx",
+    "id": "didicx",
     "name": "滴滴出行",
     "keys": ["didi_token", "didi_city_id", "didi_lottery_id", "didi_my_source_id", "didi_group_id", "didi_finance_channel_id", "didi_finance_activity_id"],
     "author": "@blackmatrix7",
@@ -57,6 +57,15 @@
     "repo": "https://github.com/yangtingxiao/QuantumultX/master/scripts/ttwk/ttwk.js",
     "icons": ["https://raw.githubusercontent.com/Orz-3/mini/master/Color/ttwkxcx.png", "https://raw.githubusercontent.com/Orz-3/mini/master/Color/ttwkxcx.png"],
     "script": "https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/ttwk/ttwk.js"
+    },
+    {
+    "id": "liwo",
+    "name": "梨涡",
+    "keys": ["liwo"],
+    "author": "@iisams",
+    "repo": "https://github.com/iisams/Scripts/blob/master/liwo/7dayscookie.js",
+    "icons": ["https://raw.githubusercontent.com/Orz-3/mini/master/Color/liwo.png", "https://raw.githubusercontent.com/Orz-3/mini/master/Color/liwo.png"],
+    "script": "https://raw.githubusercontent.com/iisams/Scripts/blob/master/liwo/7dayscookie.js"
     },
     {
     "id": "sqxh",

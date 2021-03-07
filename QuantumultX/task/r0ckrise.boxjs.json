@@ -99,6 +99,10 @@
     "val": "0",
     "type": "number",
     "desc": "0不使用，输入id模拟登录，一般为4位"
+    }],
+    "repo": "https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/ymzhuan.js",
+    "icons": ["https://raw.githubusercontent.com/r0ckrise/Scripts/master/QuantumultX/icons/ymzhuan.png", "https://raw.githubusercontent.com/r0ckrise/Scripts/master/QuantumultX/icons/ymzhuan.png"],
+    "script": "https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/ymzhuan.js"
     },
     {
     "id": "sqxh",

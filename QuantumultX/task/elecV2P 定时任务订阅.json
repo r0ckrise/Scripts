@@ -3,7 +3,7 @@
   "author": "r0ckriese",
   "desc": "自用elecV2P任务，导出的任务订阅。该订阅适用于 elecV2P，与其他软件并不兼容。相关说明参考：https://github.com/elecV2/elecV2P-dei/tree/master/docs/06-task.md",
   "date": "2021-03-08 14:40:50",
-  "list": [
+"list": [
     {
       "name": "爱奇艺",
       "type": "cron",
@@ -151,7 +151,7 @@
     {
       "name": "百度极速版",
       "type": "cron",
-      "time": "*/10 6-23 * * *",
+      "time": "*/8 6-23 * * *",
       "job": {
         "type": "runjs",
         "target": "https://raw.githubusercontent.com/Sunert/Scripts/master/Task/baidu_speed.js"
@@ -250,16 +250,6 @@
       }
     },
     {
-      "name": "羊毛赚",
-      "type": "schedule",
-      "time": "1",
-      "job": {
-        "type": "runjs",
-        "target": "ymzhuan.js"
-      },
-      "running": false
-    },
-    {
       "name": "笑谱",
       "type": "cron",
       "time": "*/30 8-23 * * *",
@@ -316,7 +306,7 @@
     {
       "name": "云扫码",
       "type": "cron",
-      "time": "0 10,30 8-23/1 * * *",
+      "time": "30 8-22/1 * * *",
       "job": {
         "type": "runjs",
         "target": "https://raw.githubusercontent.com/age174/-/main/ysm.js"
@@ -325,7 +315,7 @@
     {
       "name": "番茄看看",
       "type": "cron",
-      "time": "5 6-22/2 * * *",
+      "time": "3 8-22/2 * * *",
       "job": {
         "type": "runjs",
         "target": "https://raw.githubusercontent.com/age174/-/main/fqkk.js"
@@ -341,7 +331,7 @@
       }
     },
     {
-      "name": "金钱豹",
+      "name": "金钱豹(查看脚本有用法)",
       "type": "cron",
       "time": "15 0 * * *",
       "job": {
@@ -406,7 +396,7 @@
     {
       "name": "悬赏喵喵",
       "type": "cron",
-      "time": "30 10 */1 * * *",
+      "time": "10 */1 * * *",
       "job": {
         "type": "runjs",
         "target": "https://raw.githubusercontent.com/age174/-/main/xsmm.js"
@@ -439,6 +429,15 @@
         "target": "https://raw.githubusercontent.com/elecV2/elecV2P/master/script/JSFile/deletelog.js"
       },
       "running": false
+    },
+    {
+      "name": "评有圈",
+      "type": "cron",
+      "time": "*/30 * * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/pyq.js"
+      }
     }
   ]
 }

@@ -225,7 +225,7 @@
     {
       "name": "小乐优券微信小程序",
       "type": "cron",
-      "time": "0/15 1-6 * * *",
+      "time": "0/20 6-12 * * *",
       "job": {
         "type": "runjs",
         "target": "https://raw.githubusercontent.com/r0ckrise/ziye_scripts/main/Task/xiaole.js"

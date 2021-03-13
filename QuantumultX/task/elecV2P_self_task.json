@@ -158,26 +158,6 @@
       }
     },
     {
-      "name": "百度极速版2(提现30)",
-      "type": "cron",
-      "time": "0 6 * * *",
-      "job": {
-        "type": "runjs",
-        "target": "https://raw.githubusercontent.com/Sunert/Scripts/master/Task/baidu_speed.js"
-      },
-      "running": false
-    },
-    {
-      "name": "百度极速版3(提现30)",
-      "type": "cron",
-      "time": "1 0 6 * * *",
-      "job": {
-        "type": "runjs",
-        "target": "https://raw.githubusercontent.com/Sunert/Scripts/master/Task/baidu_speed.js"
-      },
-      "running": false
-    },
-    {
       "name": "腾讯自选股",
       "type": "cron",
       "time": "16 16 * * *",
@@ -225,7 +205,7 @@
     {
       "name": "小乐优券微信小程序",
       "type": "cron",
-      "time": "0/20 6-12 * * *",
+      "time": "0/10 20-23 * * *",
       "job": {
         "type": "runjs",
         "target": "https://raw.githubusercontent.com/r0ckrise/ziye_scripts/main/Task/xiaole.js"
@@ -238,15 +218,6 @@
       "job": {
         "type": "runjs",
         "target": "https://raw.githubusercontent.com/r0ckrise/ziye_scripts/main/Task/QQread.js"
-      }
-    },
-    {
-      "name": "悦动族",
-      "type": "cron",
-      "time": "0,30 0-23 * * *",
-      "job": {
-        "type": "runjs",
-        "target": "https://raw.githubusercontent.com/r0ckrise/ziye_scripts/main/Task/yuedongzu.js"
       }
     },
     {
@@ -292,15 +263,6 @@
       "job": {
         "type": "runjs",
         "target": "https://raw.githubusercontent.com/r0ckrise/ziye_scripts/main/Task/qmyd.js"
-      }
-    },
-    {
-      "name": "书旗小说",
-      "type": "cron",
-      "time": "3 10 6,12,16,22 * * *",
-      "job": {
-        "type": "runjs",
-        "target": "sqxs.js"
       }
     },
     {
@@ -358,22 +320,14 @@
       }
     },
     {
-      "name": "任性猫",
-      "type": "cron",
-      "time": "15,35 0,12 * * *",
-      "job": {
-        "type": "runjs",
-        "target": "https://raw.githubusercontent.com/age174/-/main/rxm.js"
-      }
-    },
-    {
       "name": "蛋咖",
       "type": "cron",
       "time": "0 8-23/1 * * *",
       "job": {
         "type": "runjs",
         "target": "https://raw.githubusercontent.com/age174/-/main/dka.js"
-      }
+      },
+      "running": false
     },
     {
       "name": "京东汽车兑换",
@@ -391,7 +345,8 @@
       "job": {
         "type": "runjs",
         "target": "https://raw.githubusercontent.com/age174/-/main/yyxs.js"
-      }
+      },
+      "running": false
     },
     {
       "name": "悬赏喵喵",
@@ -421,6 +376,25 @@
       }
     },
     {
+      "name": "评有圈",
+      "type": "cron",
+      "time": "*/30 * * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/pyq.js"
+      }
+    },
+    {
+      "name": "悦动族",
+      "type": "cron",
+      "time": "0,30 0-23 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/r0ckrise/ziye_scripts/main/Task/yuedongzu.js"
+      },
+      "running": false
+    },
+    {
       "name": "清空日志",
       "type": "schedule",
       "time": "1",
@@ -431,12 +405,39 @@
       "running": false
     },
     {
-      "name": "评有圈",
+      "name": "书旗小说",
       "type": "cron",
-      "time": "*/30 * * * *",
+      "time": "3 10 6,12,16,22 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/pyq.js"
+        "target": "sqxs.js"
+      }
+    },
+    {
+      "name": "幸运赚点",
+      "type": "cron",
+      "time": "*/15 * * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/age174/-/main/xyzd.js"
+      }
+    },
+    {
+      "name": "哈喽短视频",
+      "type": "cron",
+      "time": "*/15 * * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/age174/-/main/hldsp.js"
+      }
+    },
+    {
+      "name": "春风转",
+      "type": "cron",
+      "time": "*/15 * * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/age174/-/main/cfz.js"
       }
     }
   ]

@@ -205,7 +205,7 @@
     {
       "name": "小乐优券微信小程序",
       "type": "cron",
-      "time": "0/10 20-23 * * *",
+      "time": "0/20 6-12 * * *",
       "job": {
         "type": "runjs",
         "target": "https://raw.githubusercontent.com/r0ckrise/ziye_scripts/main/Task/xiaole.js"
@@ -293,15 +293,6 @@
       }
     },
     {
-      "name": "金钱豹(查看脚本有用法)",
-      "type": "cron",
-      "time": "15 0 * * *",
-      "job": {
-        "type": "runjs",
-        "target": "https://raw.githubusercontent.com/age174/-/main/jqb.js"
-      }
-    },
-    {
       "name": "天天挖矿小程序",
       "type": "cron",
       "time": "30 10 0 * * *",
@@ -326,8 +317,7 @@
       "job": {
         "type": "runjs",
         "target": "https://raw.githubusercontent.com/age174/-/main/dka.js"
-      },
-      "running": false
+      }
     },
     {
       "name": "京东汽车兑换",
@@ -351,7 +341,7 @@
     {
       "name": "悬赏喵喵",
       "type": "cron",
-      "time": "10 */1 * * *",
+      "time": "0 */6 * * *",
       "job": {
         "type": "runjs",
         "target": "https://raw.githubusercontent.com/age174/-/main/xsmm.js"

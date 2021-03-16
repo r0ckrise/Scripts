@@ -396,15 +396,6 @@
       "running": false
     },
     {
-      "name": "书旗小说",
-      "type": "cron",
-      "time": "3 10 6,12,16,22 * * *",
-      "job": {
-        "type": "runjs",
-        "target": "sqxs.js"
-      }
-    },
-    {
       "name": "幸运赚点",
       "type": "cron",
       "time": "*/15 * * * *",
@@ -425,7 +416,7 @@
     {
       "name": "春风转",
       "type": "cron",
-      "time": "*/5 * * * *",
+      "time": "*/10 * * * *",
       "job": {
         "type": "runjs",
         "target": "https://raw.githubusercontent.com/age174/-/main/cfz.js"
@@ -434,7 +425,7 @@
     {
       "name": "番茄小说",
       "type": "cron",
-      "time": "0 */1 * * *",
+      "time": "*/30 6-23 * * *",
       "job": {
         "type": "runjs",
         "target": "https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/fqxs.js"
@@ -443,7 +434,7 @@
     {
       "name": "微客众智",
       "type": "cron",
-      "time": "3,38 8-22 * * *",
+      "time": "*/20 6-23 * * *",
       "job": {
         "type": "runjs",
         "target": "https://raw.githubusercontent.com/age174/-/main/wkzz.js"
@@ -456,12 +447,13 @@
       "job": {
         "type": "runjs",
         "target": "https://raw.githubusercontent.com/6Svip120apk69/gitee_q8qsTAUA_cThxc1RBVUE/main/Task/shuqi.js"
-      }
+      },
+      "running": false
     },
     {
       "name": "快看点",
       "type": "cron",
-      "time": "*/30 * * * *",
+      "time": "*/20 * * * *",
       "job": {
         "type": "runjs",
         "target": "https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/kkd.js"
@@ -470,7 +462,7 @@
     {
       "name": "今日头条",
       "type": "cron",
-      "time": "*/15 * * * *",
+      "time": "*/20 * * * *",
       "job": {
         "type": "runjs",
         "target": "https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/jrtt.js"

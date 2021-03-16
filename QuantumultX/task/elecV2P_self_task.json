@@ -2,7 +2,7 @@
   "name": "自用elecV2P 定时任务订阅",
   "author": "r0ckriese",
   "desc": "自用elecV2P任务，导出的任务订阅。该订阅适用于 elecV2P，与其他软件并不兼容。相关说明参考：https://github.com/elecV2/elecV2P-dei/tree/master/docs/06-task.md",
-  "date": "2021-03-08 14:40:50",
+  "date": "2021-03-16 1:5:50",
 "list": [
     {
       "name": "爱奇艺",
@@ -92,7 +92,8 @@
       "job": {
         "type": "runjs",
         "target": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/10010/unicom_checkin.js"
-      }
+      },
+      "running": false
     },
     {
       "name": "滴滴出行",
@@ -151,7 +152,7 @@
     {
       "name": "百度极速版",
       "type": "cron",
-      "time": "*/8 6-23 * * *",
+      "time": "*/7 6-22 * * *",
       "job": {
         "type": "runjs",
         "target": "https://raw.githubusercontent.com/Sunert/Scripts/master/Task/baidu_speed.js"
@@ -286,7 +287,7 @@
     {
       "name": "燃旅视频",
       "type": "cron",
-      "time": "*/30 8-23 * * *",
+      "time": "*/20 8-23 * * *",
       "job": {
         "type": "runjs",
         "target": "https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/ranlv.js"
@@ -424,10 +425,55 @@
     {
       "name": "春风转",
       "type": "cron",
-      "time": "*/15 * * * *",
+      "time": "*/5 * * * *",
       "job": {
         "type": "runjs",
         "target": "https://raw.githubusercontent.com/age174/-/main/cfz.js"
+      }
+    },
+    {
+      "name": "番茄小说",
+      "type": "cron",
+      "time": "0 */1 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/fqxs.js"
+      }
+    },
+    {
+      "name": "微客众智",
+      "type": "cron",
+      "time": "3,38 8-22 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/age174/-/main/wkzz.js"
+      }
+    },
+    {
+      "name": "书旗小说",
+      "type": "cron",
+      "time": "*/30 8-23 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/6Svip120apk69/gitee_q8qsTAUA_cThxc1RBVUE/main/Task/shuqi.js"
+      }
+    },
+    {
+      "name": "快看点",
+      "type": "cron",
+      "time": "*/30 * * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/kkd.js"
+      }
+    },
+    {
+      "name": "今日头条",
+      "type": "cron",
+      "time": "*/15 * * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/jrtt.js"
       }
     }
   ]

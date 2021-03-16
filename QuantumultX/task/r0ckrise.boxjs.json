@@ -91,11 +91,39 @@
     "name": "账号个数",
     "val": "1",
     "type": "number",
-    "desc": "需要几个账号，数字为几"
-     }],
+    "desc": "需要几个账号，数字为几"}],
     "repo": "https://github.com/ZhiYi-N/Private-Script/blob/master/Scripts/kkd.js",
     "icons": ["https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/img/kkd-mini.png", "https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/img/kkd.png"],
     "script": "https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/kkd.js"
+    },
+    {
+    "id": "jinritt",
+    "name": "今日头条极速版",
+    "keys": ["signurl", "signkey", "farmurl", "farmkey", "readurl", "readkey", "signurl2", "signkey2", "farmurl2", "farmkey2", "readurl2", "readkey2", "signurl3", "signkey3", "farmurl3", "farmkey3", "readurl3", "readkey3", "signurl4", "signkey4", "farmurl4", "farmkey4", "readurl4", "readkey4", "signurl5", "signkey5", "farmurl5", "farmkey5", "readurl5", "readkey5"],
+    "author": "@ZhiYi-N",
+    "settings": [{
+    "id": "tz",
+    "name": "静默运行",
+    "val": "1",
+    "type": "number",
+    "desc": "0为不通知，1为全部通知"
+    },
+    {
+    "id": "jrttsetting",
+    "name": "当前账号",
+    "val": "1",
+    "type": "number",
+    "desc": "当前账号对应"
+    },
+    {
+    "id": "jrttcount",
+    "name": "账号个数",
+    "val": "1",
+    "type": "number",
+    "desc": "需要几个账号，数字为几"}],
+    "repo": "https://github.com/ZhiYi-N/Private-Script/blob/master/Scripts/jrtt.js",
+    "icons": ["https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/img/jrtt-mini.png", "https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/img/jrtt.png"],
+    "script": "https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/jrtt.js"
     },
     {
     "id": "sqxh",
@@ -106,6 +134,6 @@
     "repo": "https://github.com/xiaokxiansheng/js/blob/master/Task/sqxs.js",
     "icons": ["https://raw.githubusercontent.com/r0ckrise/Scripts/master/QuantumultX/icons/sqxs.png", "https://raw.githubusercontent.com/r0ckrise/Scripts/master/QuantumultX/icons/sqxs.png"],
     "script": "https://raw.githubusercontent.com/xiaokxiansheng/js/blob/master/Task/sqxs.js"
-    }       
+    }    
  ]
 }

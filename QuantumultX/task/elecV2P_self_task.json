@@ -59,15 +59,6 @@
       }
     },
     {
-      "name": "威锋网签到",
-      "type": "cron",
-      "time": "5 9 * * *",
-      "job": {
-        "type": "runjs",
-        "target": "https://raw.githubusercontent.com/chavyleung/scripts/master/feng/feng.js"
-      }
-    },
-    {
       "name": "什么值得买-任务",
       "type": "cron",
       "time": "30 10 9 * * *",
@@ -427,7 +418,7 @@
       "time": "*/30 6-23 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/6Svip120apk69/gitee_q8qsTAUA_cThxc1RBVUE/main/Task/shuqi.js"
+        "target": "https://raw.githubusercontent.com/r0ckrise/ziye_scripts/main/Task/shuqi.js"
       }
     },
     {
@@ -467,16 +458,6 @@
       }
     },
     {
-      "name": "中青看点极速版阅读",
-      "type": "cron",
-      "time": "30 6-21/5 0 * * *",
-      "job": {
-        "type": "runjs",
-        "target": "https://raw.githubusercontent.com/ztxtop/x/main/zqread.js"
-      },
-      "running": false
-    },
-    {
       "name": "中青看点极速版",
       "type": "cron",
       "time": "0 8-23/1 * * *",
@@ -502,6 +483,42 @@
       "job": {
         "type": "runjs",
         "target": "https://raw.githubusercontent.com/wuzhi01/MyActions/main/jx_cfdtx.js"
+      }
+    },
+    {
+      "name": "京东价格保护",
+      "type": "cron",
+      "time": "15 0 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/ZCY01/daily_scripts/main/jd/jd_priceProtect.js"
+      }
+    },
+    {
+      "name": "京喜财富岛兑换提醒",
+      "type": "cron",
+      "time": "30 6,12,22 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/moposmall/Script/main/Me/jx_cfd_exchange.js"
+      }
+    },
+    {
+      "name": "京东赚京东开团",
+      "type": "cron",
+      "time": "10 * * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/whyour/hundun/master/quanx/jd_zjd_tuan.js"
+      }
+    },
+    {
+      "name": "中青看点极速版阅读",
+      "type": "cron",
+      "time": "10 */6 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/Sunert/Scripts/master/Task/Youth_Read.js"
       }
     }
   ]

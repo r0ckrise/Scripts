@@ -141,13 +141,14 @@
       }
     },
     {
-      "name": "百度极速版",
+      "name": "百度极速版（提现）",
       "type": "cron",
-      "time": "0,1,2 0 6 * * *",
+      "time": "0,1,2,3,5,6,7 0 6 * * *",
       "job": {
         "type": "runjs",
         "target": "https://raw.githubusercontent.com/Sunert/Scripts/master/Task/baidu_speed.js"
-      }
+      },
+      "running": false
     },
     {
       "name": "腾讯自选股",
@@ -174,7 +175,8 @@
       "job": {
         "type": "runjs",
         "target": "https://raw.githubusercontent.com/CenBoMin/GithubSync/main/RUNSTEP/runstep.js"
-      }
+      },
+      "running": false
     },
     {
       "name": "走路赚钱提现",
@@ -183,12 +185,13 @@
       "job": {
         "type": "runjs",
         "target": "https://raw.githubusercontent.com/CenBoMin/GithubSync/main/RUNSTEP/cash.js"
-      }
+      },
+      "running": false
     },
     {
       "name": "葱花视频",
       "type": "cron",
-      "time": "*/30 8-23 * * *",
+      "time": "*/30 8-23,0 * * *",
       "job": {
         "type": "runjs",
         "target": "https://raw.githubusercontent.com/CenBoMin/GithubSync/main/CONGHUA/chonghua.js"
@@ -197,7 +200,7 @@
     {
       "name": "小乐优券微信小程序",
       "type": "cron",
-      "time": "0/20 6-12 * * *",
+      "time": "*/30 8-16,23,0 * * *",
       "job": {
         "type": "runjs",
         "target": "https://raw.githubusercontent.com/r0ckrise/ziye_scripts/main/Task/xiaole.js"
@@ -206,7 +209,7 @@
     {
       "name": "QQ阅读",
       "type": "cron",
-      "time": "0 0 */1 * * *",
+      "time": "0 */20 7-15 * * *",
       "job": {
         "type": "runjs",
         "target": "https://raw.githubusercontent.com/r0ckrise/ziye_scripts/main/Task/QQread.js"
@@ -245,7 +248,7 @@
       "time": "0,30 0-23 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/r0ckrise/ziye_scripts/main/Task/bububao.js"
+        "target": "bububao.js"
       }
     },
     {
@@ -278,7 +281,7 @@
     {
       "name": "燃旅视频",
       "type": "cron",
-      "time": "*/20 8-23 * * *",
+      "time": "*/30 8-23 * * *",
       "job": {
         "type": "runjs",
         "target": "https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/ranlv.js"
@@ -388,7 +391,7 @@
     {
       "name": "春风转",
       "type": "cron",
-      "time": "*/10 * * * *",
+      "time": "0 */1 * * *",
       "job": {
         "type": "runjs",
         "target": "https://raw.githubusercontent.com/age174/-/main/cfz.js"
@@ -406,7 +409,7 @@
     {
       "name": "微客众智",
       "type": "cron",
-      "time": "*/30 6-23 * * *",
+      "time": "0 6-23/1 * * *",
       "job": {
         "type": "runjs",
         "target": "https://raw.githubusercontent.com/age174/-/main/wkzz.js"
@@ -519,6 +522,52 @@
       "job": {
         "type": "runjs",
         "target": "https://raw.githubusercontent.com/Sunert/Scripts/master/Task/Youth_Read.js"
+      }
+    },
+    {
+      "name": "京东汽车兑换2",
+      "type": "cron",
+      "time": "57,58,59 59 23 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://jdsharedresourcescdn.azureedge.net/jdresource/jd_car_exchange.js"
+      }
+    },
+    {
+      "name": "百度极速版（任务）",
+      "type": "cron",
+      "time": "30 */10 6-22 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/Sunert/Scripts/master/Task/baidu_speed.js"
+      },
+      "running": false
+    },
+    {
+      "name": "66阅读",
+      "type": "cron",
+      "time": "30 8-22/1 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/age174/-/main/66yd.js"
+      }
+    },
+    {
+      "name": "文创阅读",
+      "type": "cron",
+      "time": "*/20 6-23 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/age174/-/main/wcyd.js"
+      }
+    },
+    {
+      "name": "西梅",
+      "type": "cron",
+      "time": "30 10 0 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/age174/-/main/ximei.js"
       }
     }
   ]

@@ -11,7 +11,8 @@
       "job": {
         "type": "runjs",
         "target": "https://raw.githubusercontent.com/NobyDa/Script/master/iQIYI-DailyBonus/iQIYI.js"
-      }
+      },
+      "running": false
     },
     {
       "name": "吾爱破解",
@@ -20,7 +21,8 @@
       "job": {
         "type": "runjs",
         "target": "https://raw.githubusercontent.com/NobyDa/Script/master/52pojie-DailyBonus/52pojie.js"
-      }
+      },
+      "running": false
     },
     {
       "name": "人人视频",
@@ -38,7 +40,8 @@
       "job": {
         "type": "runjs",
         "target": "https://raw.githubusercontent.com/chavyleung/scripts/master/wmmeituan/wmmeituan.js"
-      }
+      },
+      "running": false
     },
     {
       "name": "WPS",
@@ -56,7 +59,8 @@
       "job": {
         "type": "runjs",
         "target": "https://raw.githubusercontent.com/chavyleung/scripts/master/wykl/wykl.js"
-      }
+      },
+      "running": false
     },
     {
       "name": "什么值得买-任务",
@@ -200,7 +204,7 @@
     {
       "name": "小乐优券微信小程序",
       "type": "cron",
-      "time": "*/30 8-16,23,0 * * *",
+      "time": "*/30 8-15,23,0 * * *",
       "job": {
         "type": "runjs",
         "target": "https://raw.githubusercontent.com/r0ckrise/ziye_scripts/main/Task/xiaole.js"
@@ -209,7 +213,7 @@
     {
       "name": "QQ阅读",
       "type": "cron",
-      "time": "0 */20 7-15 * * *",
+      "time": "0 */20 12-21 * * *",
       "job": {
         "type": "runjs",
         "target": "https://raw.githubusercontent.com/r0ckrise/ziye_scripts/main/Task/QQread.js"
@@ -227,7 +231,7 @@
     {
       "name": "返利网",
       "type": "cron",
-      "time": "2 8,10,11,13,23 * * *",
+      "time": "0 8,9,10,11,13,23 * * *",
       "job": {
         "type": "runjs",
         "target": "https://raw.githubusercontent.com/r0ckrise/ziye_scripts/main/Task/flw.js"
@@ -272,7 +276,7 @@
     {
       "name": "番茄看看",
       "type": "cron",
-      "time": "3 8-22/2 * * *",
+      "time": "30 8-22/1 * * *",
       "job": {
         "type": "runjs",
         "target": "https://raw.githubusercontent.com/age174/-/main/fqkk.js"
@@ -373,7 +377,7 @@
     {
       "name": "幸运赚点",
       "type": "cron",
-      "time": "*/15 * * * *",
+      "time": "0 */ * * *",
       "job": {
         "type": "runjs",
         "target": "https://raw.githubusercontent.com/age174/-/main/xyzd.js"
@@ -391,7 +395,7 @@
     {
       "name": "春风转",
       "type": "cron",
-      "time": "0 */1 * * *",
+      "time": "10 7-13/1 * * *",
       "job": {
         "type": "runjs",
         "target": "https://raw.githubusercontent.com/age174/-/main/cfz.js"
@@ -409,7 +413,7 @@
     {
       "name": "微客众智",
       "type": "cron",
-      "time": "0 6-23/1 * * *",
+      "time": "6,56 */3 * * *",
       "job": {
         "type": "runjs",
         "target": "https://raw.githubusercontent.com/age174/-/main/wkzz.js"
@@ -477,7 +481,8 @@
       "job": {
         "type": "runjs",
         "target": "https://raw.githubusercontent.com/r0ckrise/ziye_scripts/main/Task/githubAC.js"
-      }
+      },
+      "running": false
     },
     {
       "name": "京喜财富岛提现",
@@ -540,8 +545,7 @@
       "job": {
         "type": "runjs",
         "target": "https://raw.githubusercontent.com/Sunert/Scripts/master/Task/baidu_speed.js"
-      },
-      "running": false
+      }
     },
     {
       "name": "66阅读",
@@ -555,7 +559,7 @@
     {
       "name": "文创阅读",
       "type": "cron",
-      "time": "*/20 6-23 * * *",
+      "time": "30 */4 * * * *",
       "job": {
         "type": "runjs",
         "target": "https://raw.githubusercontent.com/age174/-/main/wcyd.js"
@@ -564,10 +568,37 @@
     {
       "name": "西梅",
       "type": "cron",
-      "time": "30 10 0 * * *",
+      "time": "30 10 9,18 * * *",
       "job": {
         "type": "runjs",
         "target": "https://raw.githubusercontent.com/age174/-/main/ximei.js"
+      }
+    },
+    {
+      "name": "葫芦音乐",
+      "type": "cron",
+      "time": "*/30 8-20 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/age174/-/main/hlyy.js"
+      }
+    },
+    {
+      "name": "朗果英语",
+      "type": "cron",
+      "time": "5-11 8 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/age174/-/main/lgyy.js"
+      }
+    },
+    {
+      "name": "最强蜗牛",
+      "type": "cron",
+      "time": "30 10,39 8 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/age174/-/main/zqwn.js"
       }
     }
   ]

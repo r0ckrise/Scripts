@@ -115,7 +115,8 @@
       "job": {
         "type": "runjs",
         "target": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/eleme/eleme_mission.js"
-      }
+      },
+      "running": false
     },
     {
       "name": "饿了么-打卡领红包",
@@ -124,7 +125,8 @@
       "job": {
         "type": "runjs",
         "target": "https://raw.githubusercontent.com/zZPiglet/Task/master/elem/elemCheckIn.js"
-      }
+      },
+      "running": false
     },
     {
       "name": "饿了么",
@@ -133,7 +135,8 @@
       "job": {
         "type": "runjs",
         "target": "https://raw.githubusercontent.com/songyangzz/QuantumultX/master/elem/elemSign.js"
-      }
+      },
+      "running": false
     },
     {
       "name": "微博&钱包",
@@ -207,16 +210,16 @@
       "time": "*/30 8-15,23,0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/r0ckrise/ziye_scripts/main/Task/xiaole.js"
+        "target": "https://raw.githubusercontent.com/r0ckrise/AutoSyncScript/ZIYE/Task/xiaole.js"
       }
     },
     {
       "name": "QQ阅读",
       "type": "cron",
-      "time": "0 */20 12-21 * * *",
+      "time": "0 */20 7-13 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/r0ckrise/ziye_scripts/main/Task/QQread.js"
+        "target": "https://raw.githubusercontent.com/r0ckrise/AutoSyncScript/ZIYE/Task/QQread.js"
       }
     },
     {
@@ -225,7 +228,7 @@
       "time": "*/30 8-23 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/r0ckrise/ziye_scripts/main/Task/iboxpay.js"
+        "target": "https://raw.githubusercontent.com/r0ckrise/AutoSyncScript/ZIYE/Task/iboxpay.js"
       }
     },
     {
@@ -234,7 +237,7 @@
       "time": "0 8,9,10,11,13,23 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/r0ckrise/ziye_scripts/main/Task/flw.js"
+        "target": "https://raw.githubusercontent.com/r0ckrise/AutoSyncScript/ZIYE/Task/flw.js"
       }
     },
     {
@@ -243,7 +246,7 @@
       "time": "0 */1 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/r0ckrise/ziye_scripts/main/Task/zhima.js"
+        "target": "https://raw.githubusercontent.com/r0ckrise/AutoSyncScript/ZIYE/Task/zhima.js"
       }
     },
     {
@@ -261,13 +264,13 @@
       "time": "0,30 0-23 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/r0ckrise/ziye_scripts/main/Task/qmyd.js"
+        "target": "https://raw.githubusercontent.com/r0ckrise/AutoSyncScript/ZIYE/Task/qmyd.js"
       }
     },
     {
       "name": "云扫码",
       "type": "cron",
-      "time": "30 8-22/1 * * *",
+      "time": "8 6-23/1 * * *",
       "job": {
         "type": "runjs",
         "target": "https://raw.githubusercontent.com/age174/-/main/ysm.js"
@@ -276,7 +279,7 @@
     {
       "name": "番茄看看",
       "type": "cron",
-      "time": "30 8-22/1 * * *",
+      "time": "5 */1 * * *",
       "job": {
         "type": "runjs",
         "target": "https://raw.githubusercontent.com/age174/-/main/fqkk.js"
@@ -285,7 +288,7 @@
     {
       "name": "燃旅视频",
       "type": "cron",
-      "time": "*/30 8-23 * * *",
+      "time": "5 */20 * * * *",
       "job": {
         "type": "runjs",
         "target": "https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/ranlv.js"
@@ -360,7 +363,7 @@
       "time": "0,30 0-23 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/r0ckrise/ziye_scripts/main/Task/yuedongzu.js"
+        "target": "https://raw.githubusercontent.com/r0ckrise/AutoSyncScript/ZIYE/Task/yuedongzu.js"
       },
       "running": false
     },
@@ -413,7 +416,7 @@
     {
       "name": "微客众智",
       "type": "cron",
-      "time": "6,56 */3 * * *",
+      "time": "6,56 */1 * * *",
       "job": {
         "type": "runjs",
         "target": "https://raw.githubusercontent.com/age174/-/main/wkzz.js"
@@ -425,7 +428,7 @@
       "time": "*/30 6-23 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/r0ckrise/ziye_scripts/main/Task/shuqi.js"
+        "target": "https://raw.githubusercontent.com/r0ckrise/AutoSyncScript/ZIYE/Task/shuqi.js"
       }
     },
     {
@@ -480,7 +483,7 @@
       "time": "*/8 6-22 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/r0ckrise/ziye_scripts/main/Task/githubAC.js"
+        "target": "https://raw.githubusercontent.com/r0ckrise/AutoSyncScript/ZIYE/Task/githubAC.js"
       },
       "running": false
     },
@@ -532,7 +535,7 @@
     {
       "name": "京东汽车兑换2",
       "type": "cron",
-      "time": "57,58,59 59 23 * * *",
+      "time": "58,59 59 23 * * *",
       "job": {
         "type": "runjs",
         "target": "https://jdsharedresourcescdn.azureedge.net/jdresource/jd_car_exchange.js"
@@ -559,7 +562,7 @@
     {
       "name": "文创阅读",
       "type": "cron",
-      "time": "30 */4 * * * *",
+      "time": "15 * * * * *",
       "job": {
         "type": "runjs",
         "target": "https://raw.githubusercontent.com/age174/-/main/wcyd.js"
@@ -577,7 +580,7 @@
     {
       "name": "葫芦音乐",
       "type": "cron",
-      "time": "*/30 8-20 * * *",
+      "time": "*/10 5-18/1 * * *",
       "job": {
         "type": "runjs",
         "target": "https://raw.githubusercontent.com/age174/-/main/hlyy.js"
@@ -599,7 +602,47 @@
       "job": {
         "type": "runjs",
         "target": "https://raw.githubusercontent.com/age174/-/main/zqwn.js"
+      },
+      "running": false
+    },
+    {
+      "name": "悦趣阅读",
+      "type": "schedule",
+      "time": "1",
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/age174/-/main/yqzh.js"
+      },
+      "running": false
+    },
+    {
+      "name": "中青看点看看赚&浏览赚(需配合专用重写获取cookie)",
+      "type": "cron",
+      "time": "30 6 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/ztxtop/x/main/youth_banner.js"
       }
+    },
+    {
+      "name": "睡眠赚无限刷",
+      "type": "cron",
+      "time": "30 10 */1 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/age174/-/main/smz.js"
+      },
+      "running": false
+    },
+    {
+      "name": "文创阅读小程序",
+      "type": "cron",
+      "time": "31 * * * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/age174/-/main/wcxcx.js"
+      },
+      "running": false
     }
   ]
 }

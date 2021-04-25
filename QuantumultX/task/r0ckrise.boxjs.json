@@ -88,11 +88,11 @@
       "desc": "需要几个账号，数字为几"
       },
       {
-            "id": "hltxje",
-            "name": "提现金额",
-            "val": "1",
-            "type": "number",
-            "desc": "填入1为提现1元,2为2元,3为5元,4为50元,5为100元,默认提现一元"
+      "id": "hltxje",
+      "name": "提现金额",
+      "val": "1",
+      "type": "number",
+      "desc": "填入1为提现1元,2为2元,3为5元,4为50元,5为100元,默认提现一元"
        }],
       "repo": "https://github.com/age174/-/blob/main/hlyy.js",
       "icons": ["https://raw.githubusercontent.com/r0ckrise/Scripts/master/QuantumultX/icons/huluyy.png", "https://raw.githubusercontent.com/r0ckrise/Scripts/master/QuantumultX/icons/huluyy.png"],
@@ -118,11 +118,11 @@
       "desc": "需要几个账号，数字为几"
       },
       {
-            "id": "hlatxje",
-            "name": "提现金额",
-            "val": "1",
-            "type": "number",
-            "desc": "填入1为提现1元,2为2元,3为5元,4为50元,5为100元,默认提现一元"
+      "id": "hlatxje",
+      "name": "提现金额",
+      "val": "1",
+      "type": "number",
+      "desc": "填入1为提现1元,2为2元,3为5元,4为50元,5为100元,默认提现一元"
        }],
       "repo": "https://github.com/age174/-/blob/main/hlyy.js",
       "icons": ["https://raw.githubusercontent.com/r0ckrise/Scripts/master/QuantumultX/icons/huluyy.png", "https://raw.githubusercontent.com/r0ckrise/Scripts/master/QuantumultX/icons/huluyy.png"],
@@ -161,10 +161,10 @@
       {
       "author": "@sunert", 
       "keys": [
-        "youth_autoread2", 
-        "autotime_zq2", 
-        "youth_autoread3", 
-        "autotime_zq3"
+      "youth_autoread2", 
+      "autotime_zq2", 
+      "youth_autoread3", 
+      "autotime_zq3"
       ], 
       "settings": [
       {
@@ -180,8 +180,8 @@
       "script": "https://raw.githubusercontent.com/Sunert/Scripts/master/Task/Youth_Read.js", 
       "name": "中青自动阅读", 
       "icons": [
-        "https://cdn.jsdelivr.net/gh/Orz-3/mini@master/Alpha/youth.png", 
-        "https://cdn.jsdelivr.net/gh/Orz-3/mini@master/Color/youth.png"
+      "https://cdn.jsdelivr.net/gh/Orz-3/mini@master/Alpha/youth.png", 
+      "https://cdn.jsdelivr.net/gh/Orz-3/mini@master/Color/youth.png"
       ]
     },
     {
@@ -206,13 +206,13 @@
       "desc": "输入才可查看账户金币明细"
     },
     {
-      	"id": "chgetbody_video_indexa",
-      	"name": "上次执行位置",
-      	"val": "",
-      	"type": "textarea",
-      	"autoGrow": false,
-      	"rows": 1,
-      	"desc": "记录上次执行的位置，可以控制从第几个body开始执行"
+      "id": "chgetbody_video_indexa",
+      "name": "上次执行位置",
+      "val": "",
+      "type": "textarea",
+      "autoGrow": false,
+      "rows": 1,
+      "desc": "记录上次执行的位置，可以控制从第几个body开始执行"
     },
     {
       "id": "logbutton",
@@ -232,7 +232,59 @@
       "repo": ["https://raw.githubusercontent.com/CenBoMin/GithubSync"],
       "script": "https://raw.githubusercontent.com/CenBoMin/GithubSync/main/CONGHUA/chonghua.js",
       "icons": ["https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/AutoRead.png",
-    "https://raw.githubusercontent.com/58xinian/icon/master/chsp.png"
-    ]}
+      "https://raw.githubusercontent.com/58xinian/icon/master/chsp.png"
+      ]
+    },
+    {
+    "id": "dyjsb",
+    "name": "抖音极速版",
+    "keys": ["signheader", "signcookie", "stepheader", "stepkey", "readheader", "readkey", "signheader2", "signcookie2", "stepheader2", "stepkey2", "readheader2", "readkey2", "signheader3", "signcookie3", "stepheader3", "stepkey3", "readheader3", "readkey3", "signheader4", "signcookie4", "stepheader4", "stepkey4", "readheader4", "readkey4", "signheader5", "signcookie5", "stepheader5", "stepkey5", "readheader5", "readkey5", "signheader6", "signcookie6", "stepheader6", "stepkey6", "readheader6", "readkey6", "signheader7", "signcookie7", "stepheader7", "stepkey7", "readheader7", "readkey7", "signheader8", "signcookie8", "stepheader8", "stepkey8", "readheader8", "signheader9", "signcookie9", "stepheader9", "stepkey9", "readheader9", "readkey9", "signheader10", "signcookie10", "stepheader10", "stepkey10", "readheader10", "readkey10"],
+    "author": "@Ariszy",
+    "settings": [{
+      "id": "dyhost",
+      "name": "抖音极速版域名",
+      "val": "",
+      "type": "string",
+      "desc": ""
+      },
+      {
+      "id": "dyjsbaccount0",
+      "name": "支付宝账号1",
+      "val": "0",
+      "type": "number",
+      "desc": "测试的为手机号，邮箱不知道（为适应for循环，被迫命名dyjsbaccount0）"
+      },
+      {
+      "id": "dyjsbaccount1",
+      "name": "支付宝账号2",
+      "val": "0",
+      "type": "number",
+      "desc": "测试的为手机号，邮箱不知道"
+      },
+      {
+      "id": "tz",
+      "name": "静默运行",
+      "val": "1",
+      "type": "number",
+      "desc": "0为不通知，1为全部通知"
+      },
+      {
+      "id": "dyjsbsetting",
+      "name": "当前账号",
+      "val": "1",
+      "type": "number",
+      "desc": "当前账号对应"
+      }, 
+      {
+      "id": "dyjsbcount",
+      "name": "账号个数",
+      "val": "1",
+      "type": "number",
+      "desc": "需要几个账号，数字为几"
+      }],
+    "repo": "https://github.com/Ariszy/Private-Script/blob/master/Scripts/dyjsb.js",
+    "icons": ["https://raw.githubusercontent.com/Ariszy/Private-Script/master/img/dyjsb-mini.png", "https://raw.githubusercontent.com/Ariszy/Private-Script/master/img/dyjsb.png"],
+    "script": "https://raw.githubusercontent.com/Ariszy/Private-Script/master/Scripts/dyjsb.js"
+    }
  ]
 }

@@ -5,50 +5,6 @@
   "icon": "https://avatars.githubusercontent.com/u/76696224?s=400&u=54e58a6f878cd643d07c6bb0f4113983eecbadd6&v=4",
   "repo": "https://github.com/r0ckrise",
   "apps": [{
-      "id": "bm7_smzdm",
-      "name": "什么值得买",
-      "keys": ["smzdm_cookie", "smzdm_session"],
-      "author": "@blackmatrix7",
-      "repo": "https://github.com/blackmatrix7/ios_rule_script/master/script/smzdm/smzdm_mission.js",
-      "icons": ["https://raw.githubusercontent.com/Orz-3/mini/master/Color/smzdm.png", "https://raw.githubusercontent.com/Orz-3/mini/master/Color/smzdm.png"],
-      "script": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/smzdm/smzdm_mission.js"
-      },
-      {
-      "id": "tieba",
-      "name": "百度贴吧",
-      "keys": ["tieba_cookie_key"],
-      "author": "@blackmatrix7",
-      "repo": "https://github.com/blackmatrix7/ios_rule_script/blob/master/script/tieba/tieba_checkin.js",
-      "icons": ["https://raw.githubusercontent.com/Orz-3/mini/master/Color/tieba.png", "https://raw.githubusercontent.com/Orz-3/mini/master/Color/tieba.png"],
-      "script": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/tieba/tieba_checkin.js"
-      },
-      {
-      "id": "unicom",
-      "name": "中国联通",
-      "keys": ["unicom_user_cookie", "unicom_mobile", "unicom_encrypt_mobile", "city_code"],
-      "author": "@blackmatrix7",
-      "repo": "https://github.com/blackmatrix7/ios_rule_script/blob/master/script/10010/unicom_checkin.js",
-      "icons": ["https://raw.githubusercontent.com/Orz-3/mini/master/Color/10010.png", "https://raw.githubusercontent.com/Orz-3/mini/master/Color/10010.png"],
-      "script": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/10010/unicom_checkin.js"
-      },
-      {
-      "id": "didicx",
-      "name": "滴滴出行",
-      "keys": ["didi_token", "didi_city_id", "didi_lottery_id", "didi_my_source_id", "didi_group_id", "didi_finance_channel_id", "didi_finance_activity_id"],
-      "author": "@blackmatrix7",
-      "repo": "https://github.com/blackmatrix7/ios_rule_script/blob/master/script/didichuxing/didi_checkin.js",
-      "icons": ["https://raw.githubusercontent.com/Orz-3/mini/master/Color/didi.png", "https://raw.githubusercontent.com/Orz-3/mini/master/Color/didi.png"],
-      "script": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/didichuxing/didi_checkin.js"
-      },
-      {
-      "id": "eleme",
-      "name": "饿了么",
-      "keys": ["eleme_app_cookie", "eleme_app_longitude", "eleme_app_latitude"],
-      "author": "@blackmatrix7",
-      "repo": "https://github.com/blackmatrix7/ios_rule_script/blob/master/script/eleme/eleme_daily.js",
-      "icons": ["https://raw.githubusercontent.com/Orz-3/mini/master/Color/elem.png", "https://raw.githubusercontent.com/Orz-3/mini/master/Color/elem.png"],
-      "script": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/eleme/eleme_daily.js"
-      },
       {
       "id": "ttwkxcx",
       "name": "支付宝天天挖矿小程序",
@@ -57,16 +13,6 @@
       "repo": "https://github.com/yangtingxiao/QuantumultX/master/scripts/ttwk/ttwk.js",
       "icons": ["https://raw.githubusercontent.com/Orz-3/mini/master/Color/ttwkxcx.png", "https://raw.githubusercontent.com/Orz-3/mini/master/Color/ttwkxcx.png"],
       "script": "https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/ttwk/ttwk.js"
-      },
-      {
-      "id": "sqxh",
-      "name": "书旗小说",
-      "keys": ["readck1", "receivecoinck1", "vediogoldprizeck1", "vediodrawprizeck1", "drawck1", "userinfock1", "readck2", "receivecoinck2", "vediogoldprizeck2", "vediodrawprizeck2", "drawck2", "userinfock2", "readck3", "receivecoinck3", "vediogoldprizeck3", "vediodrawprizeck3", "drawck3", "userinfock3", "readck4", "receivecoinck4", "vediogoldprizeck4", "vediodrawprizeck4", "drawck4", "userinfock4", "readck5", "receivecoinck5", "vediogoldprizeck5", "vediodrawprizeck5", "drawck5", "userinfock5", "readck6", "receivecoinck6", "vediogoldprizeck6", "vediodrawprizeck6", "drawck6", "userinfock6", "readck7", "receivecoinck7", "vediogoldprizeck7", "vediodrawprizeck7", "drawck7", "userinfock7", "readck8", "receivecoinck8", "vediogoldprizeck8", "vediodrawprizeck8", "drawck8", "userinfock8", "readck9", "receivecoinck9", "vediogoldprizeck9", "vediodrawprizeck9", "drawck9", "userinfock9", "readck10", "receivecoinck10", "vediogoldprizeck10", "vediodrawprizeck10", "drawck10", "userinfock10"],
-      "author": "@caixukun",
-      "settings": [{"id": "sqxs", "name": "当前账号", "val": "1", "type": "number", "desc": "当前抓取ck记录的账号序号，如：1、2、4、" }, {"id": "CountNumber", "name": "账号个数", "val": "1", "type": "number", "desc": "指定任务最多跑几个账号，根据抓取的账号数据个数来设值"}],
-      "repo": "https://github.com/xiaokxiansheng/js/blob/master/Task/sqxs.js",
-      "icons": ["https://raw.githubusercontent.com/r0ckrise/Scripts/master/QuantumultX/icons/sqxs.png", "https://raw.githubusercontent.com/r0ckrise/Scripts/master/QuantumultX/icons/sqxs.png"],
-      "script": "https://raw.githubusercontent.com/xiaokxiansheng/js/blob/master/Task/sqxs.js"
       },
       {
       "id": "huluyy",

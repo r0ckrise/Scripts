@@ -5,7 +5,7 @@
   "icon": "https://avatars.githubusercontent.com/u/76696224?s=400&u=54e58a6f878cd643d07c6bb0f4113983eecbadd6&v=4",
   "repo": "https://github.com/r0ckrise",
   "apps": [
-      {
+    {
       "id": "ttwkxcx",
       "name": "支付宝天天挖矿小程序",
       "keys": ["ttwksignurl", "ttwksignheader", "ttwksignbody"],
@@ -13,8 +13,8 @@
       "repo": "https://github.com/yangtingxiao/QuantumultX/master/scripts/ttwk/ttwk.js",
       "icons": ["https://raw.githubusercontent.com/Orz-3/mini/master/Color/ttwkxcx.png", "https://raw.githubusercontent.com/Orz-3/mini/master/Color/ttwkxcx.png"],
       "script": "https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/ttwk/ttwk.js"
-      },
-      {
+    },
+    {
       "id": "huluyy",
       "name": "葫芦音乐",
       "keys": ["hlyyurl", "hlyyhd", "hlyyurl2", "hlyyhd2", "hlyyurl3", "hlyyhd3", "hlyyurl4", "hlyyhd4", "hlyyurl5", "hlyyhd5", "hlyyurl6", "hlyyhd6", "hlyyurl7", "hlyyhd7", "hlyyurl8", "hlyyhd8", "hlyyurl9", "hlyyhd9", "hlyyurl10", "hlyyhd10", "hlyyurl11", "hlyyhd11", "hlyyurl12", "hlyyhd12", "hlyyurl13", "hlyyhd13", "hlyyurl14", "hlyyhd14", "hlyyurl15", "hlyyhd15", "hlyyurl16", "hlyyhd16", "hlyyurl17", "hlyyhd17", "hlyyurl18", "hlyyhd18", "hlyyurl19", "hlyyhd19", "hlyyurl20", "hlyyhd20", "hlyyurl21", "hlyyhd21", "hlyyurl22", "hlyyhd22", "hlyyurl23", "hlyyhd23", "hlyyurl24", "hlyyhd24", "hlyyurl25", "hlyyhd25", "hlyyurl26", "hlyyhd26", "hlyyurl27", "hlyyhd27", "hlyyurl28", "hlyyhd28", "hlyyurl29", "hlyyhd29", "hlyyurl30", "hlyyhd30", "hlyyurl31", "hlyyhd31", "hlyyurl32", "hlyyhd32", "hlyyurl33", "hlyyhd33", "hlyyurl34", "hlyyhd34", "hlyyurl35", "hlyyhd35", "hlyyurl36", "hlyyhd36", "hlyyurl37", "hlyyhd37","hlyyurl38", "hlyyhd38", "hlyyurl39", "hlyyhd39", "hlyyurl40", "hlyyhd40", "hlyyurl41", "hlyyhd41", "hlyyurl42", "hlyyhd42", "hlyyurl43", "hlyyhd43", "hlyyurl44", "hlyyhd44", "hlyyurl45", "hlyyhd45", "hlyyurl46", "hlyyhd46", "hlyyurl47", "hlyyhd47", "hlyyurl48", "hlyyhd48", "hlyyurl49", "hlyyhd49", "hlyyurl50", "hlyyhd50", "hlyyurl51", "hlyyhd51", "hlyyurl52", "hlyyhd52", "hlyyurl53", "hlyyhd53", "hlyyurl54", "hlyyhd54", "hlyyurl55", "hlyyhd55", "hlyyurl56", "hlyyhd56", "hlyyurl57", "hlyyhd57", "hlyyurl58", "hlyyhd58", "hlyyurl59", "hlyyhd59", "hlyyurl60", "hlyyhd60"],
@@ -25,26 +25,26 @@
       "val": "1",
       "type": "number",
       "desc": "当前账号对应"
-      },
-      {
+    },
+    {
       "id": "hlyycount",
       "name": "账号个数",
       "val": "1",
       "type": "number",
       "desc": "需要几个账号，数字为几"
-      },
-      {
+    },
+    {
       "id": "hltxje",
       "name": "提现金额",
       "val": "1",
       "type": "number",
       "desc": "填入1为提现1元,2为2元,3为5元,4为50元,5为100元,默认提现一元"
-       }],
+    }],
       "repo": "https://github.com/age174/-/blob/main/hlyy.js",
       "icons": ["https://raw.githubusercontent.com/r0ckrise/Scripts/master/QuantumultX/icons/huluyy.png", "https://raw.githubusercontent.com/r0ckrise/Scripts/master/QuantumultX/icons/huluyy.png"],
       "script": "https://raw.githubusercontent.com/age174/-/main/hlyy.js"
-      },
-      {
+    },
+    {
       "id": "huluyya",
       "name": "葫芦音乐a",
       "keys": ["hlyyaurl", "hlyyahd", "hlyyaurl2", "hlyyahd2", "hlyyaurl3", "hlyyahd3", "hlyyaurl4", "hlyyahd4", "hlyyaurl5", "hlyyahd5", "hlyyaurl6", "hlyyahd6", "hlyyaurl7", "hlyyahd7", "hlyyaurl8", "hlyyahd8", "hlyyaurl9", "hlyyahd9", "hlyyaurl10", "hlyyahd10", "hlyyaurl11", "hlyyahd11", "hlyyaurl12", "hlyyahd12", "hlyyaurl13", "hlyyahd13", "hlyyaurl14", "hlyyahd14", "hlyyaurl15", "hlyyahd15", "hlyyaurl16", "hlyyahd16", "hlyyaurl17", "hlyyahd17", "hlyyaurl18", "hlyyahd18", "hlyyaurl19", "hlyyahd19", "hlyyaurl20", "hlyyahd20", "hlyyaurl21", "hlyyahd21", "hlyyaurl22", "hlyyahd22", "hlyyaurl23", "hlyyahd23", "hlyyaurl24", "hlyyahd24", "hlyyaurl25", "hlyyahd25", "hlyyaurl26", "hlyyahd26", "hlyyaurl27", "hlyyahd27", "hlyyaurl28", "hlyyahd28", "hlyyaurl29", "hlyyahd29", "hlyyaurl30", "hlyyahd30", "hlyyaurl31", "hlyyahd31", "hlyyaurl32", "hlyyahd32", "hlyyaurl33", "hlyyahd33", "hlyyaurl34", "hlyyahd34", "hlyyaurl35", "hlyyahd35", "hlyyaurl36", "hlyyahd36", "hlyyaurl37", "hlyyahd37","hlyyaurl38", "hlyyahd38", "hlyyaurl39", "hlyyahd39", "hlyyaurl40", "hlyyahd40", "hlyyaurl41", "hlyyahd41", "hlyyaurl42", "hlyyahd42", "hlyyaurl43", "hlyyahd43", "hlyyaurl44", "hlyyahd44", "hlyyaurl45", "hlyyahd45", "hlyyaurl46", "hlyyahd46", "hlyyaurl47", "hlyyahd47", "hlyyaurl48", "hlyyahd48", "hlyyaurl49", "hlyyahd49", "hlyyaurl50", "hlyyahd50", "hlyyaurl51", "hlyyahd51", "hlyyaurl52", "hlyyahd52", "hlyyaurl53", "hlyyahd53", "hlyyaurl54", "hlyyahd54", "hlyyaurl55", "hlyyahd55", "hlyyaurl56", "hlyyahd56", "hlyyaurl57", "hlyyahd57", "hlyyaurl58", "hlyyahd58", "hlyyaurl59", "hlyyahd59", "hlyyaurl60", "hlyyahd60"],
@@ -55,26 +55,26 @@
       "val": "1",
       "type": "number",
       "desc": "当前账号对应"
-      },
-      {
+    },
+    {
       "id": "hlyyacount",
       "name": "账号个数",
       "val": "1",
       "type": "number",
       "desc": "需要几个账号，数字为几"
-      },
-      {
+    },
+    {
       "id": "hlatxje",
       "name": "提现金额",
       "val": "1",
       "type": "number",
       "desc": "填入1为提现1元,2为2元,3为5元,4为50元,5为100元,默认提现一元"
-       }],
+    }],
       "repo": "https://github.com/age174/-/blob/main/hlyy.js",
       "icons": ["https://raw.githubusercontent.com/r0ckrise/Scripts/master/QuantumultX/icons/huluyy.png", "https://raw.githubusercontent.com/r0ckrise/Scripts/master/QuantumultX/icons/huluyy.png"],
       "script": "https://raw.githubusercontent.com/age174/-/main/hlyy.js"
-      },
-      {
+    },
+    {
       "id": "shuqi",
       "name": "书旗小说APP",
       "keys": ["shuqiuserurl", "shuqisyurl", "shuqisybody", "shuqispbody", "shuqiscbody", "shuqiydbody", "shuqiqdbody", "shuqirwbody", "shuqifxbody", "shuqisprwurl", "shuqijlbody", "shuqisqjlbody", "shuqicjyurl", "shuqicjcsbody", "shuqicjbody", "shuqijsspbody", "shuqijsydurl", "shuqijsydbody", "shuqijsqdbody", "shuqijsqdspyurl", "shuqijsqdspbody", "shuqijsrwbody", "shuqijsfxbody", "shuqijsbookurl", "shuqijsbookbody", "shuqijssprwurl", "shuqiuserurl2", "shuqisyurl2", "shuqisybody2", "shuqispbody2", "shuqiscbody2", "shuqiydbody2", "shuqiqdbody2", "shuqirwbody2", "shuqifxbody2", "shuqisprwurl2", "shuqijlbody2", "shuqisqjlbody2", "shuqicjyurl2", "shuqicjcsbody2", "shuqicjbody2", "shuqijsspbody2", "shuqijsydurl2", "shuqijsydbody2", "shuqijsqdbody2", "shuqijsqdspyurl2", "shuqijsqdspbody2", "shuqijsrwbody2", "shuqijsfxbody2", "shuqijsbookurl2", "shuqijsbookbody2", "shuqijssprwurl2", "shuqiuserurl3", "shuqisyurl3", "shuqisybody3", "shuqispbody3", "shuqiscbody3", "shuqiydbody3", "shuqiqdbody3", "shuqirwbody3", "shuqifxbody3", "shuqisprwurl3", "shuqijlbody3", "shuqisqjlbody3", "shuqicjyurl3", "shuqicjcsbody3", "shuqicjbody3", "shuqijsspbody3", "shuqijsydurl3", "shuqijsydbody3", "shuqijsqdbody3", "shuqijsqdspyurl3", "shuqijsqdspbody3", "shuqijsrwbody3", "shuqijsfxbody3", "shuqijsbookurl3", "shuqijsbookbody3", "shuqijssprwurl3", "shuqiuserurl4", "shuqisyurl4", "shuqisybody4", "shuqispbody4", "shuqiscbody4", "shuqiydbody4", "shuqiqdbody4", "shuqirwbody4", "shuqifxbody4", "shuqisprwurl4", "shuqijlbody4", "shuqisqjlbody4", "shuqicjyurl4", "shuqicjcsbody4", "shuqicjbody4", "shuqiuserurl5", "shuqisyurl5", "shuqisybody5", "shuqispbody5", "shuqiscbody5", "shuqiydbody5", "shuqiqdbody5", "shuqirwbody5", "shuqifxbody5", "shuqisprwurl5", "shuqijlbody5", "shuqisqjlbody5", "shuqicjyurl5", "shuqicjcsbody5", "shuqicjbody5", "shuqiuserurl6", "shuqisyurl6", "shuqisybody6", "shuqispbody6", "shuqiscbody6", "shuqiydbody6", "shuqiqdbody6", "shuqirwbody6", "shuqifxbody6", "shuqisprwurl6", "shuqijlbody6", "shuqisqjlbody6", "shuqicjyurl6", "shuqicjcsbody6", "shuqicjbody6", "shuqiuserurl7", "shuqisyurl7", "shuqisybody7", "shuqispbody7", "shuqiscbody7", "shuqiydbody7", "shuqiqdbody7", "shuqirwbody7", "shuqifxbody7", "shuqisprwurl7", "shuqijlbody7", "shuqisqjlbody7", "shuqicjyurl7", "shuqicjcsbody7", "shuqicjbody7", "shuqiuserurl8", "shuqisyurl8", "shuqisybody8", "shuqispbody8", "shuqiscbody8", "shuqiydbody8", "shuqiqdbody8", "shuqirwbody8", "shuqifxbody8", "shuqisprwurl8", "shuqijlbody8", "shuqisqjlbody8", "shuqicjyurl8", "shuqicjcsbody8", "shuqicjbody8", "shuqiuserurl9", "shuqisyurl9", "shuqisybody9", "shuqispbody9", "shuqiscbody9", "shuqiydbody9", "shuqiqdbody9", "shuqirwbody9", "shuqifxbody9", "shuqisprwurl9", "shuqijlbody9", "shuqisqjlbody9", "shuqicjyurl9", "shuqicjcsbody9", "shuqicjbody9", "shuqiuserurl10", "shuqisyurl10", "shuqisybody10", "shuqispbody10", "shuqiscbody10", "shuqiydbody10", "shuqiqdbody10", "shuqirwbody10", "shuqifxbody10", "shuqisprwurl10", "shuqijlbody10", "shuqisqjlbody10", "shuqicjyurl10", "shuqicjcsbody10", "shuqicjbody10", "shuqiuserurl11", "shuqisyurl11", "shuqisybody11", "shuqispbody11", "shuqiscbody11", "shuqiydbody11", "shuqiqdbody11", "shuqirwbody11", "shuqifxbody11", "shuqisprwurl11", "shuqijlbody11", "shuqisqjlbody11", "shuqicjyurl11", "shuqicjcsbody11", "shuqicjbody11", "shuqiuserurl12", "shuqisyurl12", "shuqisybody12", "shuqispbody12", "shuqiscbody12", "shuqiydbody12", "shuqiqdbody12", "shuqirwbody12", "shuqifxbody12", "shuqisprwurl12", "shuqijlbody12", "shuqisqjlbody12", "shuqicjyurl12", "shuqicjcsbody12", "shuqicjbody12", "shuqiuserurl13", "shuqisyurl13", "shuqisybody13", "shuqispbody13", "shuqiscbody13", "shuqiydbody13", "shuqiqdbody13", "shuqirwbody13", "shuqifxbody13", "shuqisprwurl13", "shuqijlbody13", "shuqisqjlbody13", "shuqicjyurl13", "shuqicjcsbody13", "shuqicjbody13", "shuqiuserurl14", "shuqisyurl14", "shuqisybody14", "shuqispbody14", "shuqiscbody14", "shuqiydbody14", "shuqiqdbody14", "shuqirwbody14", "shuqifxbody14", "shuqisprwurl14", "shuqijlbody14", "shuqisqjlbody14", "shuqicjyurl14", "shuqicjcsbody14", "shuqicjbody14", "shuqiuserurl15", "shuqisyurl15", "shuqisybody15", "shuqispbody15", "shuqiscbody15", "shuqiydbody15", "shuqiqdbody15", "shuqirwbody15", "shuqifxbody15", "shuqisprwurl15", "shuqijlbody15", "shuqisqjlbody15", "shuqicjyurl15", "shuqicjcsbody15", "shuqicjbody15", "shuqiuserurl16", "shuqisyurl16", "shuqisybody16", "shuqispbody16", "shuqiscbody16", "shuqiydbody16", "shuqiqdbody16", "shuqirwbody16", "shuqifxbody16", "shuqisprwurl16", "shuqijlbody16", "shuqisqjlbody16", "shuqicjyurl16", "shuqicjcsbody16", "shuqicjbody16", "shuqiuserurl17", "shuqisyurl17", "shuqisybody17", "shuqispbody17", "shuqiscbody17", "shuqiydbody17", "shuqiqdbody17", "shuqirwbody17", "shuqifxbody17", "shuqisprwurl17", "shuqijlbody17", "shuqisqjlbody17", "shuqicjyurl17", "shuqicjcsbody17", "shuqicjbody17", "shuqiuserurl18", "shuqisyurl18", "shuqisybody18", "shuqispbody18", "shuqiscbody18", "shuqiydbody18", "shuqiqdbody18", "shuqirwbody18", "shuqifxbody18", "shuqisprwurl18", "shuqijlbody18", "shuqisqjlbody18", "shuqicjyurl18", "shuqicjcsbody18", "shuqicjbody18", "shuqiuserurl19", "shuqisyurl19", "shuqisybody19", "shuqispbody19", "shuqiscbody19", "shuqiydbody19", "shuqiqdbody19", "shuqirwbody19", "shuqifxbody19", "shuqisprwurl19", "shuqijlbody19", "shuqisqjlbody19", "shuqicjyurl19", "shuqicjcsbody19", "shuqicjbody19", "shuqiuserurl20", "shuqisyurl20", "shuqisybody20", "shuqispbody20", "shuqiscbody20", "shuqiydbody20", "shuqiqdbody20", "shuqirwbody20", "shuqifxbody20", "shuqisprwurl20", "shuqijlbody20", "shuqisqjlbody20", "shuqicjyurl20", "shuqicjcsbody20", "shuqicjbody20", "shuqiuserurl21", "shuqisyurl21", "shuqisybody21", "shuqispbody21", "shuqiscbody21", "shuqiydbody21", "shuqiqdbody21", "shuqirwbody21", "shuqifxbody21", "shuqisprwurl21", "shuqijlbody21", "shuqisqjlbody21", "shuqicjyurl21", "shuqicjcsbody21", "shuqicjbody21", "shuqiuserurl22", "shuqisyurl22", "shuqisybody22", "shuqispbody22", "shuqiscbody22", "shuqiydbody22", "shuqiqdbody22", "shuqirwbody22", "shuqifxbody22", "shuqisprwurl22", "shuqijlbody22", "shuqisqjlbody22", "shuqicjyurl22", "shuqicjcsbody22", "shuqicjbody22", "shuqiuserurl23", "shuqisyurl23", "shuqisybody23", "shuqispbody23", "shuqiscbody23", "shuqiydbody23", "shuqiqdbody23", "shuqirwbody23", "shuqifxbody23", "shuqisprwurl23", "shuqijlbody23", "shuqisqjlbody23", "shuqicjyurl23", "shuqicjcsbody23", "shuqicjbody23", "shuqiuserurl24", "shuqisyurl24", "shuqisybody24", "shuqispbody24", "shuqiscbody24", "shuqiydbody24", "shuqiqdbody24", "shuqirwbody24", "shuqifxbody24", "shuqisprwurl24", "shuqijlbody24", "shuqisqjlbody24", "shuqicjyurl24", "shuqicjcsbody24", "shuqicjbody24", "shuqiuserurl25", "shuqisyurl25", "shuqisybody25", "shuqispbody25", "shuqiscbody25", "shuqiydbody25", "shuqiqdbody25", "shuqirwbody25", "shuqifxbody25", "shuqisprwurl25", "shuqijlbody25", "shuqisqjlbody25", "shuqicjyurl25", "shuqicjcsbody25", "shuqicjbody25", "shuqiuserurl26", "shuqisyurl26", "shuqisybody26", "shuqispbody26", "shuqiscbody26", "shuqiydbody26", "shuqiqdbody26", "shuqirwbody26", "shuqifxbody26", "shuqisprwurl26", "shuqijlbody26", "shuqisqjlbody26", "shuqicjyurl26", "shuqicjcsbody26", "shuqicjbody26", "shuqiuserurl27", "shuqisyurl27", "shuqisybody27", "shuqispbody27", "shuqiscbody27", "shuqiydbody27", "shuqiqdbody27", "shuqirwbody27", "shuqifxbody27", "shuqisprwurl27", "shuqijlbody27", "shuqisqjlbody27", "shuqicjyurl27", "shuqicjcsbody27", "shuqicjbody27", "shuqiuserurl28", "shuqisyurl28", "shuqisybody28", "shuqispbody28", "shuqiscbody28", "shuqiydbody28", "shuqiqdbody28", "shuqirwbody28", "shuqifxbody28", "shuqisprwurl28", "shuqijlbody28", "shuqisqjlbody28", "shuqicjyurl28", "shuqicjcsbody28", "shuqicjbody28", "shuqiuserurl29", "shuqisyurl29", "shuqisybody29", "shuqispbody29", "shuqiscbody29", "shuqiydbody29", "shuqiqdbody29", "shuqirwbody29", "shuqifxbody29", "shuqisprwurl29", "shuqijlbody29", "shuqisqjlbody29", "shuqicjyurl29", "shuqicjcsbody29", "shuqicjbody29", "shuqiuserurl30", "shuqisyurl30", "shuqisybody30", "shuqispbody30", "shuqiscbody30", "shuqiydbody30", "shuqiqdbody30", "shuqirwbody30", "shuqifxbody30", "shuqisprwurl30", "shuqijlbody30", "shuqisqjlbody30", "shuqicjyurl30", "shuqicjcsbody30", "shuqicjbody30", "shuqiuserurl31", "shuqisyurl31", "shuqisybody31", "shuqispbody31", "shuqiscbody31", "shuqiydbody31", "shuqiqdbody31", "shuqirwbody31", "shuqifxbody31", "shuqisprwurl31", "shuqijlbody31", "shuqisqjlbody31", "shuqicjyurl31", "shuqicjcsbody31", "shuqicjbody31", "shuqiuserurl32", "shuqisyurl32", "shuqisybody32", "shuqispbody32", "shuqiscbody32", "shuqiydbody32", "shuqiqdbody32", "shuqirwbody32", "shuqifxbody32", "shuqisprwurl32", "shuqijlbody32", "shuqisqjlbody32", "shuqicjyurl32", "shuqicjcsbody32", "shuqicjbody32", "shuqiuserurl33", "shuqisyurl33", "shuqisybody33", "shuqispbody33", "shuqiscbody33", "shuqiydbody33", "shuqiqdbody33", "shuqirwbody33", "shuqifxbody33", "shuqisprwurl33", "shuqijlbody33", "shuqisqjlbody33", "shuqicjyurl33", "shuqicjcsbody33", "shuqicjbody33", "shuqiuserurl34", "shuqisyurl34", "shuqisybody34", "shuqispbody34", "shuqiscbody34", "shuqiydbody34", "shuqiqdbody34", "shuqirwbody34", "shuqifxbody34", "shuqisprwurl34", "shuqijlbody34", "shuqisqjlbody34", "shuqicjyurl34", "shuqicjcsbody34", "shuqicjbody34", "shuqiuserurl35", "shuqisyurl35", "shuqisybody35", "shuqispbody35", "shuqiscbody35", "shuqiydbody35", "shuqiqdbody35", "shuqirwbody35", "shuqifxbody35", "shuqisprwurl35", "shuqijlbody35", "shuqisqjlbody35", "shuqicjyurl35", "shuqicjcsbody35", "shuqicjbody35", "shuqiuserurl36", "shuqisyurl36", "shuqisybody36", "shuqispbody36", "shuqiscbody36", "shuqiydbody36", "shuqiqdbody36", "shuqirwbody36", "shuqifxbody36", "shuqisprwurl36", "shuqijlbody36", "shuqisqjlbody36", "shuqicjyurl36", "shuqicjcsbody36", "shuqicjbody36", "shuqiuserurl37", "shuqisyurl37", "shuqisybody37", "shuqispbody37", "shuqiscbody37", "shuqiydbody37", "shuqiqdbody37", "shuqirwbody37", "shuqifxbody37", "shuqisprwurl37", "shuqijlbody37", "shuqisqjlbody37", "shuqicjyurl37", "shuqicjcsbody37", "shuqicjbody37", "shuqiuserurl38", "shuqisyurl38", "shuqisybody38", "shuqispbody38", "shuqiscbody38", "shuqiydbody38", "shuqiqdbody38", "shuqirwbody38", "shuqifxbody38", "shuqisprwurl38", "shuqijlbody38", "shuqisqjlbody38", "shuqicjyurl38", "shuqicjcsbody38", "shuqicjbody38", "shuqiuserurl39", "shuqisyurl39", "shuqisybody39", "shuqispbody39", "shuqiscbody39", "shuqiydbody39", "shuqiqdbody39", "shuqirwbody39", "shuqifxbody39", "shuqisprwurl39", "shuqijlbody39", "shuqisqjlbody39", "shuqicjyurl39", "shuqicjcsbody39", "shuqicjbody39", "shuqiuserurl40", "shuqisyurl40", "shuqisybody40", "shuqispbody40", "shuqiscbody40", "shuqiydbody40", "shuqiqdbody40", "shuqirwbody40", "shuqifxbody40", "shuqisprwurl40", "shuqijlbody40", "shuqisqjlbody40", "shuqicjyurl40", "shuqicjcsbody40", "shuqicjbody40"],
@@ -85,57 +85,52 @@
       "val": "1",
       "type": "number",
       "desc": "当前抓取ck记录的账号序号，如：1、2、3、"
-      },
-      {
+    },
+    {
       "id": "shuqiCount",
       "name": "账号个数",
       "val": "1",
       "type": "number",
       "desc": "指定任务最多跑几个账号，根据抓取的账号数据个数来设值"
-      },
-      {
+    },
+    {
       "id": "shuqiXH",
       "name": "循环获取CK",
       "val": "0",
       "type": "number",
       "desc": "0关闭 1开启,默认关闭"
-      }],
+    }],
       "repo": "https://cdn.jsdelivr.net/gh/ziye888/JavaScript@main/Task/shuqi.js",
       "icons": ["https://cdn.jsdelivr.net/gh/ziye888/JavaScript@main/Task/shuqi.png", "https://cdn.jsdelivr.net/gh/ziye888/JavaScript@main/Task/shuqi.png"],
       "script": "https://cdn.jsdelivr.net/gh/ziye888/JavaScript@main/Task/yuedongzu.js"
-      },
-      {
+    },
+    {
       "author": "@sunert", 
       "keys": [
       "youth_autoread2", 
       "autotime_zq2", 
       "youth_autoread3", 
-      "autotime_zq3"
-      ], 
-      "settings": [
-    {
+      "autotime_zq3"], 
+      "settings": [{
       "id": "youth_cut", 
       "val": false, 
       "name": "缩减请求", 
       "type": "boolean", 
       "desc": "自动删除收益为0或者错误的阅读请求，使用完后请立即关闭，避免清空阅读请求"
-    }
-      ],
+    }],
       "repo": "https://github.com/Sunert/Scripts/blob/master/Task/Youth_Read.js", 
       "id": "youthRead2", 
       "script": "https://raw.githubusercontent.com/Sunert/Scripts/master/Task/Youth_Read.js", 
       "name": "中青自动阅读", 
       "icons": [
       "https://cdn.jsdelivr.net/gh/Orz-3/mini@master/Alpha/youth.png", 
-      "https://cdn.jsdelivr.net/gh/Orz-3/mini@master/Color/youth.png"
-      ]
+      "https://cdn.jsdelivr.net/gh/Orz-3/mini@master/Color/youth.png"]
     },
     {
       "id": "conghauapp",
       "name": "葱花视频",
       "keys": ["uida","chgetbody_videoa", "chgetbody_sharea", "chgetbody_timereda", "chgetbody_taskcentera", "chgetbody_sharerewarda", "logbuttona", "tzbuttona","chgetbody_video_indexa","cashbodya","cashkeya","callbackkeya","callbackurla"],
-      "settings": [
-     {
+      "settings": [{
       "id": "chgetbody_videoa",
       "name": "请求body",
       "val": "",
@@ -178,13 +173,12 @@
       "repo": ["https://raw.githubusercontent.com/CenBoMin/GithubSync"],
       "script": "https://raw.githubusercontent.com/CenBoMin/GithubSync/main/CONGHUA/chonghua.js",
       "icons": ["https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/AutoRead.png",
-      "https://raw.githubusercontent.com/58xinian/icon/master/chsp.png"
-      ]
+      "https://raw.githubusercontent.com/58xinian/icon/master/chsp.png"]
     },
     {
-    "id": "dyjsb",
-    "name": "抖音极速版",
-    "keys": ["signheader", "signcookie", "stepheader", "stepkey", "readheader", "readkey", "signheader2", "signcookie2", "stepheader2", "stepkey2", "readheader2", "readkey2", "signheader3", "signcookie3", "stepheader3", "stepkey3", "readheader3", "readkey3", "signheader4", "signcookie4", "stepheader4", "stepkey4", "readheader4", "readkey4", "signheader5", "signcookie5", "stepheader5", "stepkey5", "readheader5", "readkey5", "signheader6", "signcookie6", "stepheader6", "stepkey6", "readheader6", "readkey6", "signheader7", "signcookie7", "stepheader7", "stepkey7", "readheader7", "readkey7", "signheader8", "signcookie8", "stepheader8", "stepkey8", "readheader8", "signheader9", "signcookie9", "stepheader9", "stepkey9", "readheader9", "readkey9", "signheader10", "signcookie10", "stepheader10", "stepkey10", "readheader10", "readkey10"],
+      "id": "dyjsb",
+      "name": "抖音极速版",
+      "keys": ["signheader", "signcookie", "stepheader", "stepkey", "readheader", "readkey", "signheader2", "signcookie2", "stepheader2", "stepkey2", "readheader2", "readkey2", "signheader3", "signcookie3", "stepheader3", "stepkey3", "readheader3", "readkey3", "signheader4", "signcookie4", "stepheader4", "stepkey4", "readheader4", "readkey4", "signheader5", "signcookie5", "stepheader5", "stepkey5", "readheader5", "readkey5", "signheader6", "signcookie6", "stepheader6", "stepkey6", "readheader6", "readkey6", "signheader7", "signcookie7", "stepheader7", "stepkey7", "readheader7", "readkey7", "signheader8", "signcookie8", "stepheader8", "stepkey8", "readheader8", "signheader9", "signcookie9", "stepheader9", "stepkey9", "readheader9", "readkey9", "signheader10", "signcookie10", "stepheader10", "stepkey10", "readheader10", "readkey10"],
     "author": "@Ariszy",
     "settings": [{
       "id": "dyhost",
@@ -192,69 +186,68 @@
       "val": "",
       "type": "string",
       "desc": ""
-      },
-      {
+    },
+    {
       "id": "dyjsbaccount0",
       "name": "支付宝账号1",
       "val": "0",
       "type": "number",
       "desc": "测试的为手机号，邮箱不知道（为适应for循环，被迫命名dyjsbaccount0）"
-      },
-      {
+    },
+    {
       "id": "dyjsbaccount1",
       "name": "支付宝账号2",
       "val": "0",
       "type": "number",
       "desc": "测试的为手机号，邮箱不知道"
-      },
-      {
+    },
+    {
       "id": "tz",
       "name": "静默运行",
       "val": "1",
       "type": "number",
       "desc": "0为不通知，1为全部通知"
-      },
-      {
+    },
+    {
       "id": "dyjsbsetting",
       "name": "当前账号",
       "val": "1",
       "type": "number",
       "desc": "当前账号对应"
-      }, 
-      {
+    }, 
+    {
       "id": "dyjsbcount",
       "name": "账号个数",
       "val": "1",
       "type": "number",
       "desc": "需要几个账号，数字为几"
-      }],
-    "repo": "https://github.com/Ariszy/Private-Script/blob/master/Scripts/dyjsb.js",
-    "icons": ["https://raw.githubusercontent.com/Ariszy/Private-Script/master/img/dyjsb-mini.png", "https://raw.githubusercontent.com/Ariszy/Private-Script/master/img/dyjsb.png"],
+    }],
+      "repo": "https://github.com/Ariszy/Private-Script/blob/master/Scripts/dyjsb.js",
+      "icons": ["https://raw.githubusercontent.com/Ariszy/Private-Script/master/img/dyjsb-mini.png", "https://raw.githubusercontent.com/Ariszy/Private-Script/master/img/dyjsb.png"],
     "script": "https://raw.githubusercontent.com/Ariszy/Private-Script/master/Scripts/dyjsb.js"
-     },
-      {
-            "id": "qlp",
-            "name": "考状元娶老婆二合一",
-            "keys": ["qlphd","kzyhd", "qlphd2","kzyhd2", "qlphd3","kzyhd3", "qlphd4","kzyhd4", "qlphd5","kzyhd5", "qlphd6","kzyhd6", "qlphd7","kzyhd7", "qlphd8","kzyhd8", "qlphd9","kzyhd9", "qlphd10","kzyhd10", "qlphd11","kzyhd11", "qlphd12","kzyhd12", "qlphd13","kzyhd13", "qlphd14","kzyhd14", "qlphd15","kzyhd15", "qlphd16","kzyhd16", "qlphd17","kzyhd17", "qlphd18","kzyhd18", "qlphd19","kzyhd19", "qlphd20","kzyhd20"],
-            "author": "@feizao",
-            "settings": [{
-            "id": "qlpstatus",
-            "name": "当前账号",
-            "val": "1",
-            "type": "number",
-            "desc": "当前账号对应"
     },
     {
-            "id": "qlpcount",
-            "name": "账号个数",
-            "val": "1",
-            "type": "number",
-            "desc": "需要几个账号，数字为几"
+      "id": "qlp",
+      "name": "考状元娶老婆二合一",
+      "keys": ["qlphd","kzyhd", "qlphd2","kzyhd2", "qlphd3","kzyhd3", "qlphd4","kzyhd4", "qlphd5","kzyhd5", "qlphd6","kzyhd6", "qlphd7","kzyhd7", "qlphd8","kzyhd8", "qlphd9","kzyhd9", "qlphd10","kzyhd10", "qlphd11","kzyhd11", "qlphd12","kzyhd12", "qlphd13","kzyhd13", "qlphd14","kzyhd14", "qlphd15","kzyhd15", "qlphd16","kzyhd16", "qlphd17","kzyhd17", "qlphd18","kzyhd18", "qlphd19","kzyhd19", "qlphd20","kzyhd20"],
+      "author": "@feizao",
+      "settings": [{
+      "id": "qlpstatus",
+      "name": "当前账号",
+      "val": "1",
+      "type": "number",
+      "desc": "当前账号对应"
+    },
+    {
+      "id": "qlpcount",
+      "name": "账号个数",
+      "val": "1",
+      "type": "number",
+      "desc": "需要几个账号，数字为几"
     }],
-            "repo": "https://github.com/age174/-/blob/main/qlp.js",
-            "icons": ["https://ae01.alicdn.com/kf/Uc2775b8f4abf41788ba89df0317e58050.jpg", "https://ae01.alicdn.com/kf/Uc2775b8f4abf41788ba89df0317e58050.jpg"],
-            "script": "https://raw.githubusercontent.com/age174/-/main/qlp.js"
+      "repo": "https://github.com/age174/-/blob/main/qlp.js",
+      "icons": ["https://ae01.alicdn.com/kf/Uc2775b8f4abf41788ba89df0317e58050.jpg", "https://ae01.alicdn.com/kf/Uc2775b8f4abf41788ba89df0317e58050.jpg"],
+      "script": "https://raw.githubusercontent.com/age174/-/main/qlp.js"
     }
-      
- ]
+  ]
 }

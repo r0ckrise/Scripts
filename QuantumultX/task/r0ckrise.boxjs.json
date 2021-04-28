@@ -231,6 +231,18 @@
     "repo": "https://github.com/Ariszy/Private-Script/blob/master/Scripts/dyjsb.js",
     "icons": ["https://raw.githubusercontent.com/Ariszy/Private-Script/master/img/dyjsb-mini.png", "https://raw.githubusercontent.com/Ariszy/Private-Script/master/img/dyjsb.png"],
     "script": "https://raw.githubusercontent.com/Ariszy/Private-Script/master/Scripts/dyjsb.js"
+     },
+     {
+      "id": "qlp",
+      "name": "考状元娶老婆二合一",
+      "keys": ["qlphd", "kzyhd", "qlphd2", "kzyhd2", "qlphd3", "kzyhd3", "qlphd4", "kzyhd4", "qlphd5", "kzyhd5", "qlphd6", "kzyhd6", "qlphd7", "kzyhd7", "qlphd8", "kzyhd8", "qlphd9", "kzyhd9", "qlphd10", "kzyhd10", "qlphd11", "kzyhd11", "qlphd12", "kzyhd12", "qlphd13", "kzyhd13", "qlphd14", "kzyhd14", "qlphd15", "kzyhd15", "qlphd16", "kzyhd16", "qlphd17", "kzyhd17", "qlphd81", "kzyhd81", "qlphd9", "kzyhd19", "qlphd20", "kzyhd20"],
+      "author": "@feizao",
+      "settings": [{
+      "id": "qlpstatus",
+      "name": "当前账号",
+      "val": "1",
+      "type": "number",
+      "desc": "当前账号对应"
     }
  ]
 }

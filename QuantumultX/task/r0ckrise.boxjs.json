@@ -45,36 +45,6 @@
       "script": "https://raw.githubusercontent.com/age174/-/main/hlyy.js"
     },
     {
-      "id": "huluyya",
-      "name": "葫芦音乐a",
-      "keys": ["hlyyaurl", "hlyyahd", "hlyyaurl2", "hlyyahd2", "hlyyaurl3", "hlyyahd3", "hlyyaurl4", "hlyyahd4", "hlyyaurl5", "hlyyahd5", "hlyyaurl6", "hlyyahd6", "hlyyaurl7", "hlyyahd7", "hlyyaurl8", "hlyyahd8", "hlyyaurl9", "hlyyahd9", "hlyyaurl10", "hlyyahd10", "hlyyaurl11", "hlyyahd11", "hlyyaurl12", "hlyyahd12", "hlyyaurl13", "hlyyahd13", "hlyyaurl14", "hlyyahd14", "hlyyaurl15", "hlyyahd15", "hlyyaurl16", "hlyyahd16", "hlyyaurl17", "hlyyahd17", "hlyyaurl18", "hlyyahd18", "hlyyaurl19", "hlyyahd19", "hlyyaurl20", "hlyyahd20", "hlyyaurl21", "hlyyahd21", "hlyyaurl22", "hlyyahd22", "hlyyaurl23", "hlyyahd23", "hlyyaurl24", "hlyyahd24", "hlyyaurl25", "hlyyahd25", "hlyyaurl26", "hlyyahd26", "hlyyaurl27", "hlyyahd27", "hlyyaurl28", "hlyyahd28", "hlyyaurl29", "hlyyahd29", "hlyyaurl30", "hlyyahd30", "hlyyaurl31", "hlyyahd31", "hlyyaurl32", "hlyyahd32", "hlyyaurl33", "hlyyahd33", "hlyyaurl34", "hlyyahd34", "hlyyaurl35", "hlyyahd35", "hlyyaurl36", "hlyyahd36", "hlyyaurl37", "hlyyahd37","hlyyaurl38", "hlyyahd38", "hlyyaurl39", "hlyyahd39", "hlyyaurl40", "hlyyahd40", "hlyyaurl41", "hlyyahd41", "hlyyaurl42", "hlyyahd42", "hlyyaurl43", "hlyyahd43", "hlyyaurl44", "hlyyahd44", "hlyyaurl45", "hlyyahd45", "hlyyaurl46", "hlyyahd46", "hlyyaurl47", "hlyyahd47", "hlyyaurl48", "hlyyahd48", "hlyyaurl49", "hlyyahd49", "hlyyaurl50", "hlyyahd50", "hlyyaurl51", "hlyyahd51", "hlyyaurl52", "hlyyahd52", "hlyyaurl53", "hlyyahd53", "hlyyaurl54", "hlyyahd54", "hlyyaurl55", "hlyyahd55", "hlyyaurl56", "hlyyahd56", "hlyyaurl57", "hlyyahd57", "hlyyaurl58", "hlyyahd58", "hlyyaurl59", "hlyyahd59", "hlyyaurl60", "hlyyahd60"],
-      "author": "@feizao",
-      "settings": [{
-      "id": "hlyyastatus",
-      "name": "当前账号",
-      "val": "1",
-      "type": "number",
-      "desc": "当前账号对应"
-    },
-    {
-      "id": "hlyyacount",
-      "name": "账号个数",
-      "val": "1",
-      "type": "number",
-      "desc": "需要几个账号，数字为几"
-    },
-    {
-      "id": "hlatxje",
-      "name": "提现金额",
-      "val": "1",
-      "type": "number",
-      "desc": "填入1为提现1元,2为2元,3为5元,4为50元,5为100元,默认提现一元"
-    }],
-      "repo": "https://github.com/age174/-/blob/main/hlyy.js",
-      "icons": ["https://raw.githubusercontent.com/r0ckrise/Scripts/master/QuantumultX/icons/huluyy.png", "https://raw.githubusercontent.com/r0ckrise/Scripts/master/QuantumultX/icons/huluyy.png"],
-      "script": "https://raw.githubusercontent.com/age174/-/main/hlyy.js"
-    },
-    {
       "author": "@sunert", 
       "keys": [
       "youth_autoread2", 
@@ -296,6 +266,44 @@
 		"script": "https://raw.githubusercontent.com/CenBoMin/GithubSync/main/TXSTOCK/txstockqx.js",
 		"icons": ["https://raw.githubusercontent.com/CenBoMin/GithubSync/main/TXSTOCK/txzxg.png","https://raw.githubusercontent.com/CenBoMin/GithubSync/main/TXSTOCK/txzxg.png"
 		]
-	}
+	},
+    {
+            "id": "flw",
+            "name": "返利网",
+            "keys": ["flwurl", "flwheader", "flwspbody", "flwqwbody", "flwydbody", "flwurl2", "flwheader2", "flwspbody2", "flwqwbody2", "flwydbody2", "flwurl3", "flwheader3", "flwspbody3", "flwqwbody3", "flwydbody3", "flwurl4", "flwheader4", "flwspbody4", "flwqwbody4", "flwydbody4", "flwurl5", "flwheader5", "flwspbody5", "flwqwbody5", "flwydbody5", "flwurl6", "flwheader6", "flwspbody6", "flwqwbody6", "flwydbody6", "flwurl7", "flwheader7", "flwspbody7", "flwqwbody7", "flwydbody7", "flwurl8", "flwheader8", "flwspbody8", "flwqwbody8", "flwydbody8", "flwurl9", "flwheader9", "flwspbody9", "flwqwbody9", "flwydbody9", "flwurl10", "flwheader10", "flwspbody10", "flwqwbody10", "flwydbody10", "flwurl11", "flwheader11", "flwspbody11", "flwqwbody11", "flwydbody11", "flwurl12", "flwheader12", "flwspbody12", "flwqwbody12", "flwydbody12", "flwurl13", "flwheader13", "flwspbody13", "flwqwbody13", "flwydbody13", "flwurl14", "flwheader14", "flwspbody14", "flwqwbody14", "flwydbody14", "flwurl15", "flwheader15", "flwspbody15", "flwqwbody15", "flwydbody15", "flwurl16", "flwheader16", "flwspbody16", "flwqwbody16", "flwydbody16", "flwurl17", "flwheader17", "flwspbody17", "flwqwbody17", "flwydbody17", "flwurl18", "flwheader18", "flwspbody18", "flwqwbody18", "flwydbody18", "flwurl19", "flwheader19", "flwspbody19", "flwqwbody19", "flwydbody19", "flwurl20", "flwheader20", "flwspbody20", "flwqwbody20", "flwydbody20", "flwurl21", "flwheader21", "flwspbody21", "flwqwbody21", "flwydbody21", "flwurl22", "flwheader22", "flwspbody22", "flwqwbody22", "flwydbody22", "flwurl26", "flwheader26", "flwspbody26", "flwqwbody26", "flwydbody26", "flwurl27", "flwheader27", "flwspbody27", "flwqwbody27", "flwydbody27", "flwurl28", "flwheader28", "flwspbody28", "flwqwbody28", "flwydbody28", "flwurl29", "flwheader29", "flwspbody29", "flwqwbody29", "flwydbody29", "flwurl30", "flwheader30", "flwspbody30", "flwqwbody30", "flwydbody30", "flwurl31", "flwheader31", "flwspbody31", "flwqwbody31", "flwydbody31", "flwurl32", "flwheader32", "flwspbody32", "flwqwbody32", "flwydbody32", "flwurl33", "flwheader33", "flwspbody33", "flwqwbody33", "flwydbody33", "flwurl34", "flwheader34", "flwspbody34", "flwqwbody34", "flwydbody34", "flwurl35", "flwheader35", "flwspbody35", "flwqwbody35", "flwydbody35", "flwurl36", "flwheader36", "flwspbody36", "flwqwbody36", "flwydbody36", "flwurl37", "flwheader37", "flwspbody37", "flwqwbody37", "flwydbody37", "flwurl38", "flwheader38", "flwspbody38", "flwqwbody38", "flwydbody38", "flwurl39", "flwheader39", "flwspbody39", "flwqwbody39", "flwydbody39", "flwurl40", "flwheader40", "flwspbody40", "flwqwbody40", "flwydbody40", "flwurl41", "flwheader41", "flwspbody41", "flwqwbody41", "flwydbody41", "flwurl42", "flwheader42", "flwspbody42", "flwqwbody42", "flwydbody42", "flwurl43", "flwheader43", "flwspbody43", "flwqwbody43", "flwydbody43", "flwurl44", "flwheader44", "flwspbody44", "flwqwbody44", "flwydbody44", "flwurl45", "flwheader45", "flwspbody45", "flwqwbody45", "flwydbody45", "flwurl46", "flwheader46", "flwspbody46", "flwqwbody46", "flwydbody46", "flwurl47", "flwheader47", "flwspbody47", "flwqwbody47", "flwydbody47", "flwurl48", "flwheader48", "flwspbody48", "flwqwbody48", "flwydbody48", "flwurl49", "flwheader49", "flwspbody49", "flwqwbody49", "flwydbody49", "flwurl50", "flwheader50", "flwspbody50", "flwqwbody50", "flwydbody50"],
+            "author": "@ziye",
+            "settings": [{
+                    "id": "flwSuffix",
+                    "name": "当前账号",
+                    "val": "1",
+                    "type": "number",
+                    "desc": "当前抓取ck记录的账号序号，如：1、2、3、"
+                },
+                {
+                    "id": "flwCount",
+                    "name": "账号个数",
+                    "val": "1",
+                    "type": "number",
+                    "desc": "指定任务最多跑几个账号，根据抓取的账号数据个数来设值"
+                },
+                {
+                    "id": "flwCASH",
+                    "name": "天天领现金提现标准",
+                    "val": "0",
+                    "type": "number",
+                    "desc": "默认0，设置0.3及以上时启动天天领现金模块，且大于等于此值时自动提现"
+                },
+                {
+                    "id": "flwDHCASH",
+                    "name": "兑换标准",
+                    "val": "0",
+                    "type": "number",
+                    "desc": "默认0，可设置设置 0 5 50 100"
+                }
+            ],
+            "repo": "https://cdn.jsdelivr.net/gh/ziye888/JavaScript@main/Task/flw.js",
+            "icons": ["https://cdn.jsdelivr.net/gh/ziye888/JavaScript@main/Task/flw.png", "https://cdn.jsdelivr.net/gh/ziye888/JavaScript@main/Task/flw.png"],
+            "script": "https://cdn.jsdelivr.net/gh/ziye888/JavaScript@main/Task/flw.js"
+        }
   ]
 }
